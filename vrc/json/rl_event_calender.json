@@ -1,1 +1,37 @@
+{
+  "events": [
+    {
+      "LogoID": 1,
+      "Name": "LGBTQ+ Hangout Night",
+      "Date": "2025-03-15",
+      "Time": "18:00",
+      "RoomID": 5,
+      "VRCGroup": ""
+    },
+    {
+      "LogoID": 1,
+      "Name": "Trans Support Meeting",
+      "Date": "2025-03-20",
+      "Time": "20:00",
+      "RoomID": 7,
+      "VRCGroup": ""
+    },
+    {
+      "LogoID": 2,
+      "Name": "Queer Art Showcase",
+      "Date": "2025-03-25",
+      "Time": "19:30",
+      "RoomID": 3,
+      "VRCGroup": ""
+    },
+    {
+      "LogoID": 2,
+      "Name": "VR Pride Parade",
+      "Date": "2025-06-01",
+      "Time": "17:00",
+      "RoomID": 1,
+      "VRCGroup": ""
+    }
+  ]
+}
 
