@@ -1,3 +1,162 @@
+<SysBook="Default">
+<SysPage="RAINBOW CALENDAR">
+<b><color=#e81416>19.05.25</color></b>
+<sprite index=0> RAINBO.7059 Social hangout day.
+
+<b><color=#ffa500>20.05.25</color></b>
+<sprite index=0> RAINBO.7059 Social hangout day.
+
+<b><color=#faeb36>21.05.25</color></b>
+<sprite index=0> RAINBO.7059 Social hangout day.
+
+<b><color=#79c314>22.05.25</color></b>
+<sprite index=0> RAINBO.7059 Movie Night - Howl's Moving Castle   <b><t:1747944000:t></b>   World: Popcorn Palace
+
+<b><color=#487de7>23.05.25</color></b>
+<sprite index=0> RAINBO.7059 Lyxie's Voice training workshop      <b><t:1748030400:t></b>   Room: Lecture hall
+
+<b><color=#4b369d>24.05.25</color></b>
+<sprite index=0> RAINBO.7059 Zarraz's Voice Training Workshop     <b><t:1748109600:t></b>   Discord
+
+<b><color=#70369d>25.05.25</color></b>
+<sprite index=0> RAINBO.7059 Snacks 'N' Sunday - E07 - Origami	  <b><t:1748181600:t></b>   Room: Commons
+<sprite index=0> RAINBO.7059 Rainbow roams                         <b><t:1748124000:t></b>   Various Worlds
+</SysPage>
+<SysPage="SUPPORT">
+<align="center">Coming Soon</align>
+</SysPage>
+<SysPage="COMMUNITY NOTES">
+<align="center">Coming Soon</align>
+</SysPage>
+<SysPage="ATTENTION">
+<align="center">Coming Soon</align>
+</SysPage>
+<SysPage="CODE OF CONDUCT">
+<align="center">Coming Soon</align>
+</SysPage>
+<SysPage="PEER SUPPORT">
+<align="center">Coming Soon</align>
+</SysPage>
+<SysPage="SIGNING ROOM">
+<align="center">Coming Soon</align>
+</SysPage>
+<SysPage="DEBATE ROOM">
+<align="center">Coming Soon</align>
+</SysPage>
+<SysPage="PEER SUPPORT">
+<align="center">Coming Soon</align>
+</SysPage>
+<SysPage="SCIENCE NEWS">
+<align="center">Coming Soon</align>
+</SysPage>
+<SysPage="OUR MISSION">
+<align="center">Coming Soon</align>
+</SysPage>
+<SysPage="LORE">
+<align="center">Coming Soon</align>
+</SysPage>
+<SysPage="OUR MISSION">
+<align="center">Coming Soon</align>
+</SysPage>
+<SysPage="EVENTS">
+<align="center">Upcoming community events and activities</align>
+</SysPage>
+<SysPage="RESOURCES">
+<align="center">Links to mental health, LGBTQ+ advocacy resources, and more</align>
+</SysPage>
+<SysPage="ART GALLERY">
+<align="center">Explore and appreciate the work of queer artists</align>
+</SysPage>
+<SysPage="BOOK CLUB">
+<align="center">Join the Rainbow Library book discussions</align>
+</SysPage>
+<SysPage="GAY HISTORY">
+<align="center">A dive into important milestones in LGBTQ+ history</align>
+</SysPage>
+<SysPage="PRIDE STORIES">
+<align="center">Read personal stories from our community members</align>
+</SysPage>
+<SysPage="SUPPORT NETWORK">
+<align="center">Join a supportive space for LGBTQ+ mental health</align>
+</SysPage>
+<SysPage="FAQ">
+<align="center">Frequently Asked Questions about the Rainbow Library</align>
+</SysPage>
+<SysPage="CONTACT US">
+<align="center">Get in touch for support or suggestions</align>
+</SysPage>
+<SysPage="GENDER IDENTITY">
+<align="center">Explore different gender identities and expressions.</align>
+</SysPage>
+
+<SysPage="GENDER SPECTRUM">
+<align="center">Understand that gender exists on a spectrum, not a binary.</align>
+</SysPage>
+
+<SysPage="TRANSGENDER BASICS">
+<align="center">Learn the basics of being transgender, transitioning, and gender identity.</align>
+</SysPage>
+
+<SysPage="NON BINARY IDENTITY">
+<align="center">Learn about the non-binary gender identity and its significance.</align>
+</SysPage>
+
+<SysPage="PRONOUNS MATTER">
+<align="center">Why respecting and using correct pronouns is important.</align>
+</SysPage>
+
+<SysPage="TRANSGENDER HISTORY">
+<align="center">A brief look at transgender history and significant figures.</align>
+</SysPage>
+
+<SysPage="SUPPORTING TRANSFOLK">
+<align="center">How to support transgender individuals in your community.</align>
+</SysPage>
+
+<SysPage="GENDER ROLES">
+<align="center">Understanding societal gender roles and their impact on gender expression.</align>
+</SysPage>
+
+<SysPage="GENDER NEUTRAL LANGUAGE">
+<align="center">Explore the importance of using gender-neutral language.</align>
+
+</SysPage>
+
+<SysPage="DEFINING GENDERFLUIDITY">
+<align="center">What it means to be genderfluid, and how it differs from other identities.</align>
+</SysPage>
+<SysPage="TRANSGENDER RIGHTS">
+<align="center">A guide to transgender rights and how to advocate for equality.</align>
+</SysPage>
+<SysPage="GENDER INCLUSIVITY">
+<align="center">Tips for creating gender-inclusive environments, spaces, and language.</align>
+</SysPage>
+<SysPage="DEALING WITH GENDER Dysphoria">
+<align="center">Understanding gender dysphoria and how to cope with it.</align>
+</SysPage>
+<SysPage="FAMOUS TRANSGENDER FIGURES">
+<align="center">Profiles of prominent transgender people and their achievements.</align>
+</SysPage>
+<SysPage="GENDER EXPANSIVE LANGUAGE">
+<align="center">Expanding the language we use to reflect gender diversity.</align>
+</SysPage>
+<SysPage="AFTER COMING OUT">
+<align="center">What to expect after coming out and navigating the world as a transgender person.</align>
+</SysPage>
+<SysPage="TRANSMASC & TRANSFEMININE">
+<align="center">Exploring the experiences of transmasc and transfeminine individuals.</align>
+</SysPage>
+<SysPage="GENDER IN THE WORKPLACE">
+<align="center">How to create a more inclusive workplace for gender-diverse individuals.</align>
+</SysPage>
+<SysPage="SUPPORTING TRANS YOUTH">
+<align="center">Tips for supporting gender-diverse and transgender youth.</align>
+</SysPage>
+<SysPage="DISABILITY & GENDER">
+<align="center">How disability intersects with gender identity and expression.</align>
+</SysPage>
+
+
 <SysPage="CREDITS">
 <font="LiberationSans SDF">
 <size=120%><color=#ffffff>The Rainbow Library exists thanks to the care, time, and dedication of its community. This space is a collective effort, built with love and maintained by volunteers across many areas.</color></size>
@@ -66,8 +225,7 @@ Niko - for the amazing globe shader
 </size>
 
 <align="center"><size=130%><color=#ffffff>You're always welcome here - just as you are </color></size></align>
-
-<align="center"><size=1000%><sprite index=12></size></align>
+<align="center"><size=800%><sprite index=12></size></align>
 </font>
 </SysPage>
 <SysPage="RAINBOW LIBRARY">
@@ -196,6 +354,20 @@ Where trees and grass in harmony lay.
 Blue, the ocean, deep and wide,
 Reflecting skies with endless tide.
 </size>
+<align="center"><size=800%><sprite index=12></size></align>
 </align>
 </font>
 </SysPage>
+</SysBook>
+
+<SysBook="Hello World Book">
+	<SysPage="Page 1">
+		Hello World. This is the first line of a book!
+	</SysPage>
+	<SysPage="Page 2">
+		This is the second page of the book!
+	</SysPage>
+	<SysPage="Page 3">
+		This is the third!
+	</SysPage>
+</SysBook>
