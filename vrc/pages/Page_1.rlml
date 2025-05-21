@@ -127,7 +127,6 @@ Report rule violations to moderators
 <SysPage="UPCOMING">
 January
 <color=#FF0000>Transgender Awareness Month</color>
-<color=#FF7F00>Drag Bingo Night</color>
 
 February
 <color=#FF7F00>LGBT History Month</color>
@@ -147,7 +146,6 @@ May
 
 June
 <color=#4B0082>Pride Month</color>
-<color=#9400D3>Stonewall Riots Anniversary</color>
 
 July
 <color=#9400D3>Pride in the Park</color>
@@ -163,14 +161,12 @@ September
 
 October
 <color=#FFFF00>National Coming Out Day</color>
-<color=#00FF00>LGBTQ+ Film Series</color>
 
 November
 <color=#00FF00>Transgender Day of Remembrance</color>
 <color=#0000FF>Queer Thanksgiving Gathering</color>
 
 December
-<color=#0000FF>World AIDS Day</color>
 <color=#4B0082>LGBTQ+ Holiday Party</color>
 </SysPage>
 
@@ -178,10 +174,19 @@ December
 
 
 
+
+
+
+<pos=1>
+
+
+
+The Rainbow
+
 A rainbow arches in the sky,
 A fleeting moment, passing by.
 With colors bright, it starts to gleam,
-A painter's stroke, a distant dream.
+A painters stroke, a distant dream.
 
 Red whispers of a fiery kiss,
 Orange glows like sunlit bliss.
@@ -193,18 +198,5 @@ Where trees and grass in harmony lay.
 Blue, the ocean, deep and wide,
 Reflecting skies with endless tide.
 
-Indigo, the twilight hue,
-A mystery in shades of blue.
-Violet whispers, soft and kind,
-A dreamer's peace for weary mind.
-
-Together they weave, a fleeting thread,
-Of beauty seen, yet often shed.
-A promise made when storms have passed,
-That love and light will always last.
-
-So when the clouds begin to part,
-Look up to see this work of art.
-A rainbow's bow, so full of grace,
-A gentle smile in nature's face.
+</pos>
 </SysPage>
