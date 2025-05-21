@@ -33,6 +33,7 @@ Tsukeno
 
 </SysPage>
 <SysPage="INFORMATION">
+<font="LiberationSans SDF">
 <align="center"><size=200%><color=#fad42a>Welcome to the Rainbow Library</color></size></align>
 
 <size=120%><color=#ffffff>The Rainbow Library is a community driven space focused on inclusivity, creativity and connection within VRChat and beyond.</color></size>
@@ -61,9 +62,10 @@ Tsukeno
 </size>
 
 <align="center"><size=130%><color=#ffffff>You're always welcome here - just as you are </color></size></align>
-
+</font>
 </SysPage>
 <SysPage="RAINBOW LIBRARY">
+<font="LiberationSans SDF">
 <align="center"><b><color=#fad42a><size=200%>Welcome!</size></color></b></align>
 
 
@@ -89,7 +91,7 @@ We are here for you!
 <pos=1><size=250%><sprite index=10></size> youtube.com/@rainbowlibraryvr
 <pos=1><size=250%><sprite index=6></size> patreon.com/c/RainbowLibraryVR</pos>
 </b>
-
+</font>
 </SysPage>
 <SysPage="RULES">
 <font="LiberationSans SDF">
