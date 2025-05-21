@@ -66,6 +66,8 @@ Niko - for the amazing globe shader
 </size>
 
 <align="center"><size=130%><color=#ffffff>You're always welcome here - just as you are </color></size></align>
+
+<align="center"><size=1000%><sprite index=12></size></align>
 </font>
 </SysPage>
 <SysPage="RAINBOW LIBRARY">
@@ -89,7 +91,7 @@ We are here for you!
 
 <b><color=#fad42a><size=200%>Social Media</size></color></b>
 <b></align>
-<pos=1><size=250%><sprite index=6></size> <link="id">vrc.group/RAINBO.7059</link>
+<pos=1><size=250%><sprite index=6></size> vrc.group/RAINBO.7059
 <pos=1><size=250%><sprite index=2></size> discord.gg/rainbowlibrary
 <pos=1><size=250%><sprite index=14></size> twitch.tv/rainbowlibraryvr
 <pos=1><size=250%><sprite index=10></size> youtube.com/@rainbowlibraryvr
