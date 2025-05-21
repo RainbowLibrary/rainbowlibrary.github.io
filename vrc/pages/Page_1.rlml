@@ -125,48 +125,48 @@ Report rule violations to moderators
 </SysPage>
 
 <SysPage="UPCOMING">
-January
+<size=160%>January</size>
 <color=#FF0000>Transgender Awareness Month</color>
 
-February
+<size=160%>February</size>
 <color=#FF7F00>LGBT History Month</color>
 <color=#FFFF00>Transgender Day of Remembrance</color>
 
-March
+<size=160%>March</size>
 <color=#FFFF00>International Women's Day</color>
 <color=#00FF00>Queer Film Festival</color>
 
-April
+<size=160%>April</size>
 <color=#00FF00>Day of Silence</color>
 <color=#0000FF>Queer Youth Meetup</color>
 
-May
+<size=160%>May</size>
 <color=#0000FF>Pride Month Kickoff</color>
 <color=#4B0082>International Day Against Homophobia, Transphobia, and Biphobia</color>
 
-June
+<size=160%>June</size>
 <color=#4B0082>Pride Month</color>
 
-July
+<size=160%>July</size>
 <color=#9400D3>Pride in the Park</color>
 <color=#FF0000>Transgender Equality Day</color>
 
-August
+<size=160%>August</size>
 <color=#FF0000>Transgender Awareness Week</color>
 <color=#FF7F00>Queer Arts Festival</color>
 
-September
+<size=160%>September</size>
 <color=#FF7F00>Pride Picnic</color>
 <color=#FFFF00>LGBTQ+ History Month</color>
 
-October
+<size=160%>October</size>
 <color=#FFFF00>National Coming Out Day</color>
 
-November
+<size=160%>November</size>
 <color=#00FF00>Transgender Day of Remembrance</color>
 <color=#0000FF>Queer Thanksgiving Gathering</color>
 
-December
+<size=160%>December</size>
 <color=#4B0082>LGBTQ+ Holiday Party</color>
 </SysPage>
 
@@ -177,10 +177,10 @@ December
 
 
 
-<pos=1>
 
-
-
+<font="LiberationSans SDF">
+<align="center">
+<size=120%>
 The Rainbow
 
 A rainbow arches in the sky,
@@ -197,6 +197,7 @@ Green, the earth in quiet sway,
 Where trees and grass in harmony lay.
 Blue, the ocean, deep and wide,
 Reflecting skies with endless tide.
-
-</pos>
+</size>
+</align>
+</font>
 </SysPage>
