@@ -85,11 +85,11 @@ We are here for you!
 
 <b><color=#fad42a><size=200%>Social Media</size></color></b>
 <b></align>
-<pos=1><size=250%><sprite index=8></size> <link="id">vrc.group/RAINBO.7059</link>
-<pos=1><size=250%><sprite index=5></size> discord.gg/rainbowlibrary
-<pos=1><size=250%><sprite index=13></size> twitch.tv/rainbowlibraryvr
+<pos=1><size=250%><sprite index=6></size> <link="id">vrc.group/RAINBO.7059</link>
+<pos=1><size=250%><sprite index=2></size> discord.gg/rainbowlibrary
+<pos=1><size=250%><sprite index=14></size> twitch.tv/rainbowlibraryvr
 <pos=1><size=250%><sprite index=10></size> youtube.com/@rainbowlibraryvr
-<pos=1><size=250%><sprite index=6></size> patreon.com/c/RainbowLibraryVR</pos>
+<pos=1><size=250%><sprite index=3></size> patreon.com/c/RainbowLibraryVR</pos>
 </b>
 </font>
 </SysPage>
@@ -120,7 +120,7 @@ Report rule violations to moderators
 
 
 
-<size=130%><align="center">Disruptive users may be removed</align></size>
+<size=130%><align="center"><size=250%><sprite index=9></size> Disruptive users may be removed</align></size>
 </font>
 </SysPage>
 
