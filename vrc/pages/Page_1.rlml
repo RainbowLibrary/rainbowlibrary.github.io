@@ -96,7 +96,7 @@ We are here for you!
 
 </SysPage>
 <SysPage="Rules">
-
+<font="LiberationSans SDF">
 
 <color=#fad42a><size=190%>1. Respect Everyone</size></color>
 Be kind; no harassment, discrimination, or hate speech
@@ -123,4 +123,5 @@ Report rule violations to moderators
 
 
 <size=130%><align="center">Disruptive users may be removed</align></size>
+</font>
 </SysPage>
