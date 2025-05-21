@@ -98,33 +98,40 @@ We are here for you!
 </font>
 </SysPage>
 <SysPage="RULES">
-<font="LiberationSans SDF">
-
-<color=#fad42a><size=190%>1. Respect Everyone</size></color>
+<font="LiberationSans SDF"><color=#fad42a><size=190%>1. Respect Everyone</size></color>
 Be kind; no harassment, discrimination, or hate speech
+
 <color=#fad42a><size=190%>2. Keep It PG-13</size></color>
 No explicit content, suggestive behavior, or inappropriate avatars
+
 <color=#fad42a><size=190%>3. Use Appropriate Avatars</size></color>
 No explicit avatars. No violence. No global screen effect shaders
+
 <color=#fad42a><size=190%>4. Respect Boundaries</size></color>
 Personal space and consent matter in all interactions
+
 <color=#fad42a><size=190%>5. Follow VRChat Guidelines</size></color>
 Obey all platform rules and terms
+
 <color=#fad42a><size=190%>6. Protect the Virtual Space</size></color>
 No griefing, spamming, exploiting, or disrupting the environment
+
 <color=#fad42a><size=190%>7. Engage Positively</size></color>
 Be inclusive, supportive, and share the space respectfully
+
 <color=#fad42a><size=190%>8. Prioritize Safety</size></color>
 Be mindful of your own security and well-being and that of others
+
 <color=#fad42a><size=190%>9. No Recording Without Consent</size></color>
 Do not record or stream others without permission
+
 <color=#fad42a><size=190%>10. Ask for Help</size></color>
 Report rule violations to moderators
 
 
 
 
-<size=130%><align="center"><size=250%><sprite index=9></size> Disruptive users may be removed</align></size>
+<size=130%><align="center"><size=130%><sprite index=9></size> Disruptive users may be removed</align></size>
 </font>
 </SysPage>
 
