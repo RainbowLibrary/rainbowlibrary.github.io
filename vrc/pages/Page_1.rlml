@@ -1,4 +1,4 @@
-<SysPage="Credits">
+<SysPage="CREDITS">
 <font="LiberationSans SDF">
 <size=120%><color=#ffffff>The Rainbow Library exists thanks to the care, time, and dedication of its community. This space is a collective effort, built with love and maintained by volunteers across many areas.</color></size>
 </font>
@@ -36,7 +36,7 @@ Gwen the dwagon
 <align="center"><size=130%><color=#ffffff>This world wouldn’t exist without the people who shape it - thank you all!</color></size></align></font>
 
 </SysPage>
-<SysPage="Information">
+<SysPage="INFORMATION">
 <align="center"><size=200%><color=#fad42a>Welcome to the Rainbow Library</color></size></align>
 
 <size=120%><color=#ffffff>The Rainbow Library is a community driven space focused on inclusivity, creativity and connection within VRChat and beyond.</color></size>
@@ -67,7 +67,7 @@ Gwen the dwagon
 <align="center"><size=130%><color=#ffffff>You're always welcome here - just as you are </color></size></align>
 
 </SysPage>
-<SysPage="About">
+<SysPage="RAINBOW LIBRARY">
 <align="center"><b><color=#fad42a><size=200%>Welcome!</size></color></b></align>
 
 
@@ -95,7 +95,7 @@ We are here for you!
 </b>
 
 </SysPage>
-<SysPage="Rules">
+<SysPage="RULES">
 <font="LiberationSans SDF">
 
 <color=#fad42a><size=190%>1. Respect Everyone</size></color>
