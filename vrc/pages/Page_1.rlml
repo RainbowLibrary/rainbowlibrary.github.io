@@ -26,37 +26,37 @@
 </SysPage>
 <SysPage="SUPPORT">
 <font="LiberationSans SDF">
-<align="center"><size=180%><color=#fad42a>Here for You, Everywhere</color></size></align>
+<align="center"><size=380%><color=#fad42a>Here for You, Everywhere</color></size></align>
 
-<size=120%><color=#ffffff>Our Support page connects you with lifeline services that specialize in supporting trans individuals worldwide, offering assistance, guidance, and a listening ear when you need it most.</color></size>
+<size=320%><color=#ffffff>Our Support page connects you with lifeline services that specialize in supporting trans individuals worldwide, offering assistance, guidance, and a listening ear when you need it most.</color></size>
 
-<size=125%>
+<size=325%>
 We’ve compiled a list of trusted resources, including hotlines, online chat support, and regional organizations dedicated to trans rights, mental health, and overall well-being.
 
-<line-height=130%><color=#fad42a>Worldwide Trans Lifeline Resources</color></line-height>
+<line-height=330%><color=#fad42a>Worldwide Trans Lifeline Resources</color></line-height>
 
-<line-height=120%><size=110%><color=#fad42a>United States</color></size></line-height>
+<line-height=320%><size=310%><color=#fad42a>United States</color></size></line-height>
 • Trans Lifeline (24/7 Hotline): 1-877-565-8860  
 • National Suicide Prevention Lifeline: 1-800-273-8255  
 • The Trevor Project (LGBTQIA+ Support): 1-866-488-7386
 
-<line-height=120%><size=110%><color=#fad42a>Canada</color></size></line-height>
+<line-height=320%><size=310%><color=#fad42a>Canada</color></size></line-height>
 • Trans Lifeline Canada (24/7 Hotline): 1-877-330-6366  
 • Crisis Services Canada: 1-833-456-4566
 
-<line-height=120%><size=110%><color=#fad42a>United Kingdom</color></size></line-height>
+<line-height=320%><size=310%><color=#fad42a>United Kingdom</color></size></line-height>
 • Gendered Intelligence (Support & Community Resources): +44 20 3195 9385  
 • Samaritans (Mental Health & Crisis Helpline): 116 123
 
-<line-height=120%><size=110%><color=#fad42a>Australia</color></size></line-height>
+<line-height=320%><size=310%><color=#fad42a>Australia</color></size></line-height>
 • QLife (LGBTQIA+ Helpline): 1800 184 527  
 • Lifeline Australia (24/7 Crisis Support): 13 11 14
 
-<line-height=120%><size=110%><color=#fad42a>International</color></size></line-height>
+<line-height=320%><size=310%><color=#fad42a>International</color></size></line-height>
 • ILGA World (International LGBTQIA+ Support): [www.ilga.org](http://www.ilga.org)  
 • Transgender Europe (TGEU) Resources: [www.tgeu.org](https://tgeu.org)  
 
-<line-height=120%><size=110%><color=#fad42a>Additional Global Resources</color></size></line-height>
+<line-height=320%><size=310%><color=#fad42a>Additional Global Resources</color></size></line-height>
 • [Transgender Equality](https://www.hrc.org/resources/transgender-equality) (USA-based but global resources)  
 • [Transgender Support Network](https://www.transgender-support.org) (Global Network)
 
@@ -64,37 +64,37 @@ These resources are listed by region to ensure you have the most relevant, acces
 
 </size>
 
-<align="center"><size=160%><color=#ffffff>Reach out when you need support. You matter. </color></size>
+<align="center"><size=360%><color=#ffffff>Reach out when you need support. You matter. </color></size>
 <size=800%><sprite index=12></size></align>
 </font>
 </SysPage>
 <SysPage="CONTACT">
 <font="LiberationSans SDF">
-<align="center"><size=180%><color=#fad42a>Get in Touch</color></size></align>
+<align="center"><size=380%><color=#fad42a>Get in Touch</color></size></align>
 
-<size=120%><color=#ffffff>We’re here to listen, support, and connect. Whether you have a question, need help, or want to get involved, here’s how you can reach out to us.</color></size>
+<size=320%><color=#ffffff>We’re here to listen, support, and connect. Whether you have a question, need help, or want to get involved, here’s how you can reach out to us.</color></size>
 
-<line-height=130%><size=110%><color=#fad42a>Ways to Contact Us</color></size></line-height>
+<line-height=330%><size=310%><color=#fad42a>Ways to Contact Us</color></size></line-height>
 
-<size=125%>
+<size=325%>
 • **Discord**: Join our [Rainbow Library Discord](https://discord.gg/rainbowlibrary) to chat with our moderators and community members, ask questions, share resources, or find support.
 
 • **In-World**: You can also find us in VRChat! Look for our volunteers in the Rainbow Library world — approach us directly.
 
 
-<line-height=130%><size=110%><color=#fad42a>Additional Information</color></size></line-height>
+<line-height=330%><size=310%><color=#fad42a>Additional Information</color></size></line-height>
 
-<size=125%>
-• **Events**: If you want to host an event, workshop, or activity in the Rainbow Library, let us know through our Discord. We love collaborating with the community!
+<size=325%>
+• Events - If you want to host an event, workshop, or activity in the Rainbow Library, let us know through our Discord. We love collaborating with the community!
 
-• **Volunteer**: Interested in helping us grow and maintain the space? Volunteers are always welcome! Reach out on Discord or via email to learn more about how you can contribute.
+• Volunteer - Interested in helping us grow and maintain the space? Volunteers are always welcome! Reach out on Discord or via email to learn more about how you can contribute.
 
-• **Resource Submissions**: We are always looking to expand our library! If you have media, books, or resources you’d like to contribute, you can submit them through our Discord or email.
+• Resource Submissions - We are always looking to expand our library! If you have media, books, or resources you’d like to contribute, you can submit them through our Discord or email.
 
 We welcome all inquiries and look forward to hearing from you. No matter how big or small, your message matters to us, and we are here to help.
 </size>
 
-<align="center"><size=160%><color=#ffffff>We're just a message away. </color></size>
+<align="center"><size=360%><color=#ffffff>We're just a message away. </color></size>
 <size=800%><sprite index=12></size></align>
 </font>
 </SysPage>
@@ -131,24 +131,22 @@ Moderators are present to help, not to police. If you feel unsafe or notice some
 <font="LiberationSans SDF">
 <align="center"><size=180%><color=#fad42a>Welcome to the Signing Room</color></size></align>
 
-<size=120%><color=#ffffff>The Signing Room is a quiet, peaceful space where you can communicate through sign language, written messages, or other non-verbal means. Here, we prioritize silence and stillness to create a soothing environment for those who need a moment of calm, reflection, or non-verbal interaction.</color></size>
+<size=120%><color=#ffffff>The Signing Room is a quiet, peaceful space where you can only communicate through sign language, written messages, or other non-verbal means. 
+Here, we prioritize silence and stillness to create a wonderful learning enviroment.</color></size>
 
 <line-height=130%><size=110%><color=#fad42a>A Space for Quiet</color></size></line-height>
 
 <size=125%>
-Unlike other areas of the Rainbow Library, the Signing Room is designed for those who wish to communicate without sound. This means you won't be able to talk or hear audio here. Instead, you can use text-based communication, sign language, or even gestures to interact with others.
+Unlike other areas of the Rainbow Library, the Signing Room is designed for those who communicate without sound. 
+This means you will not be able to talk or hear audio here. 
+Instead, you can use text-based communication, sign language, or even gestures to interact with others.
 
-We respect the need for silence and stillness, and this room offers a sanctuary for those who may need a break from auditory stimuli or those who prefer a quieter, more focused environment. It’s also an accessible space for those who are deaf or hard of hearing, fostering non-verbal connection through a shared space.
+We respect the need for silence and stillness and this room offers a sanctuary for those who may need a break from auditory stimuli or those who prefer a quieter, more focused environment. 
+It is an accessible space for those who are deaf or hard of hearing, fostering non verbal connection through a shared space.
 
-<line-height=130%><size=110%><color=#fad42a>How It Works</color></size></line-height>
 
-<size=125%>
-• **Silent Environment**: No talking or audio in this space to maintain peace and comfort for all users.  
-• **Text-Based Communication**: You can use the in-world chat or any text-based communication method to interact.  
-• **Sign Language & Gestures**: Feel free to use sign language, hand gestures, or other body language to communicate non-verbally.  
-• **Mindful Interactions**: Remember, the goal here is peace and focus—be mindful of the environment and each other’s need for quiet.
-
-The Signing Room is a space of respect, tranquility, and non-verbal connection. It’s a perfect place to reflect, have a thoughtful conversation through gestures, or simply enjoy a quiet moment.
+The Signing Room is a space of respect, tranquility, and non-verbal connection. 
+It is a perfect place to reflect, have a thoughtful conversation through gestures, or simply enjoy a quiet moment.
 
 </size>
 
