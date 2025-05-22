@@ -243,33 +243,33 @@ We create inclusive, supportive spaces that prioritize belonging, mental wellnes
 </SysPage>
 <SysPage="LORE">
 <font="LiberationSans SDF">
-<align="center"><size=180%><color=#fad42a>Our Story</color></size></align>
+<align="center"><size=300%><color=#fad42a>Our Story</color></size></align>
 
-<size=120%><color=#ffffff>The Rainbow Library began as a dream: a space where knowledge, creativity, and community intersect. What started as a simple idea has grown into a thriving hub, full of stories, learning, and connection.</color></size>
+<size=240%><color=#ffffff>The Rainbow Library began as a dream: a space where knowledge, creativity, and community intersect. What started as a simple idea has grown into a thriving hub, full of stories, learning, and connection.</color></size>
 
-<line-height=130%><size=110%><color=#fad42a>Our Origins</color></size></line-height>
+<line-height=130%><size=280%><color=#fad42a>Our Origins</color></size></line-height>
 
-<size=125%>
+<size=240%>
 The Rainbow Library was created to offer a welcoming space for those seeking information, support, and community—particularly for LGBTQIA+ individuals. In the early days, it was a small gathering of like-minded individuals within VRChat, all coming together to share stories, books, and resources. What started as a humble collection of digital bookshelves quickly evolved into a vibrant, interactive community space.
 
 As the space grew, so did its mission: to create a library that wasn’t just about books, but about fostering connections, education, and visibility for marginalized voices.
 
-<line-height=130%><size=110%><color=#fad42a>Our Vision</color></size></line-height>
+<line-height=130%><size=280%><color=#fad42a>Our Vision</color></size></line-height>
 
-<size=125%>
+<size=240%>
 The Rainbow Library isn’t just a virtual space—it’s a reflection of the world we want to build. A world where everyone, regardless of identity or background, has access to resources, support, and the freedom to express themselves authentically. Through our curated collections, workshops, events, and peer support, we strive to empower individuals and uplift our community.
 
 From its very inception, the library has been a place where every identity is celebrated, and where the stories of the LGBTQIA+ community are preserved, shared, and honored.
 
-<line-height=130%><size=110%><color=#fad42a>The Future of the Library</color></size></line-height>
+<line-height=130%><size=280%><color=#fad42a>The Future of the Library</color></size></line-height>
 
-<size=125%>
+<size=240%>
 The Rainbow Library is always evolving. Our vision is constantly expanding, with new resources, events, and features that reflect the ever-growing needs and desires of our community. From our book collections to our art galleries, peer support, and educational initiatives, we are continuously working to make the library a place where everyone feels heard, seen, and empowered.
 
 It’s more than a space—it’s a movement. And the best part? You’re part of it. Together, we continue to write our story, shaping the future of the Rainbow Library every day.
 </size>
 
-<align="center"><size=160%><color=#ffffff>Join us in building the next chapter. </color></size>
+<align="center"><size=300%><color=#ffffff>Join us in building the next chapter. </color></size>
 <size=800%><sprite index=12></size></align>
 </font>
 </SysPage>
