@@ -157,37 +157,37 @@ It is a perfect place to reflect, have a thoughtful conversation through gesture
 
 <SysPage="DEBATE ROOM">
 <font="LiberationSans SDF">
-<align="center"><size=180%><color=#fad42a>Debate Room</color></size></align>
+<align="center"><size=220%><color=#fad42a>Debate Room</color></size></align>
 
-<size=120%><color=#ffffff>The Debate Room is a space for respectful, constructive conversations. Here, we engage in thoughtful debates on various topics, encouraging open dialogue and critical thinking.</color></size>
+<size=160%><color=#ffffff>The Debate Room is a space for respectful, constructive conversations. Here, we engage in thoughtful debates on various topics, encouraging open dialogue and critical thinking.</color></size>
 
-<line-height=130%><size=110%><color=#fad42a>Respectful Discourse</color></size></line-height>
+<line-height=1800%><size=110%><color=#fad42a>Respectful Discourse</color></size></line-height>
 
-<size=125%>
+<size=160%>
 We welcome diverse opinions and encourage participants to listen, reflect, and respond thoughtfully. The Debate Room is about sharing perspectives in a respectful environment, where everyone’s voice is valued.
 
 Join us for engaging discussions and learn from each other while honing your skills in dialogue and critical thinking.
 </size>
 
-<align="center"><size=160%><color=#ffffff>Engage, respect, and challenge ideas. </color></size>
+<align="center"><size=220%><color=#ffffff>Engage, respect, and challenge ideas. </color></size>
 <size=800%><sprite index=12></size></align>
 </font>
 </SysPage>
 <SysPage="LECTURE HALL">
 <font="LiberationSans SDF">
-<align="center"><size=180%><color=#fad42a>Lecture Hall</color></size></align>
+<align="center"><size=220%><color=#fad42a>Lecture Hall</color></size></align>
 
-<size=120%><color=#ffffff>The Lecture Hall is where we gather to learn, discuss, and share knowledge. From workshops to guest speakers, this space is dedicated to educational events and community discussions.</color></size>
+<size=160%><color=#ffffff>The Lecture Hall is where we gather to learn, discuss, and share knowledge. From workshops to guest speakers, this space is dedicated to educational events and community discussions.</color></size>
 
-<line-height=130%><size=110%><color=#fad42a>Engage, Learn, Grow</color></size></line-height>
+<line-height=180%><size=110%><color=#fad42a>Engage, Learn, Grow</color></size></line-height>
 
-<size=125%>
+<size=160%>
 Join us for regular lectures, workshops, and discussions that explore LGBTQIA+ topics, personal growth, and social issues. Our Lecture Hall is a space for thought-provoking conversations and shared learning.
 
 Whether you're here to listen, ask questions, or contribute, we invite you to be part of the dialogue and expand your understanding.
 </size>
 
-<align="center"><size=160%><color=#ffffff>Where learning happens, together. </color></size>
+<align="center"><size=220%><color=#ffffff>Where learning happens, together. </color></size>
 <size=800%><sprite index=12></size></align>
 </font>
 </SysPage>
