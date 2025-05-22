@@ -728,7 +728,70 @@ Reflecting skies with endless tide.
 </font>
 </SysPage>
 </SysBook>
+<SysPage="TRANS RIGHTS">
+<font="LiberationSans SDF">
+<align="center"><size=180%><color=#fad42a>Trans Rights Are Human Rights</color></size></align>
 
+<size=120%><color=#ffffff>Trans people deserve safety, respect, access, and autonomy. At the Rainbow Library, we affirm trans rights as essential and non-negotiable.</color></size>
+
+<size=125%>
+Trans rights include the right to live openly, access healthcare, express gender identity, use chosen names and pronouns, and be free from discrimination and violence. These rights are under attack in many parts of the world—and standing in solidarity matters.
+
+Use this space to learn, share resources, and uplift trans voices. Advocacy starts with awareness, and action starts with community.
+</size>
+
+<align="center"><size=160%><color=#ffffff>There is no pride without trans rights. </color></size>
+<size=800%><sprite index=12></size></align>
+</font>
+</SysPage>
+<SysPage="HUMAN RIGHTS">
+<font="LiberationSans SDF">
+<align="center"><size=180%><color=#fad42a>Equality, Safety, Freedom</color></size></align>
+
+<size=120%><color=#ffffff>Human rights belong to everyone—regardless of gender, sexuality, race, ability, or origin. These rights are not earned; they are inherent.</color></size>
+
+<size=125%>
+At the Rainbow Library, we center human rights in all we do. This means fighting against systems of oppression, supporting marginalized communities, and creating accessible, inclusive spaces for all.
+
+From freedom of expression to bodily autonomy, housing, education, and healthcare—these are not privileges. They are rights. And we defend them together.
+</size>
+
+<align="center"><size=160%><color=#ffffff>When we protect each other’s rights, we protect our shared humanity. </color></size>
+<size=800%><sprite index=12></size></align>
+</font>
+</SysPage>
+<SysPage="TRANS POLITICS">
+<font="LiberationSans SDF">
+<align="center"><size=180%><color=#fad42a>Our Lives Are Political</color></size></align>
+
+<size=120%><color=#ffffff>Trans existence is not a debate—it’s a reality. The fight for trans liberation is deeply political, rooted in resistance and resilience.</color></size>
+
+<size=125%>
+Trans politics intersects with healthcare, law, education, housing, and public safety. From anti-trans legislation to policy victories, staying informed helps us resist injustice and build a better world.
+
+This space is here to help you understand current issues, advocate effectively, and connect with grassroots movements pushing for real change. Visibility matters—but action matters more.
+</size>
+
+<align="center"><size=160%><color=#ffffff>Trans liberation is a political priority. Stay aware, stay active. </color></size>
+<size=800%><sprite index=12></size></align>
+</font>
+</SysPage>
+<SysPage="DIGNITY">
+<font="LiberationSans SDF">
+<align="center"><size=180%><color=#fad42a>You Deserve Dignity</color></size></align>
+
+<size=120%><color=#ffffff>Dignity means being treated with respect, compassion, and humanity. For trans and queer people, this is not always guaranteed—but here, it is fundamental.</color></size>
+
+<size=125%>
+No matter your background, your transition, your identity, or your story—your life has value. We believe in your right to be seen, affirmed, and uplifted without condition.
+
+Dignity lives in how we treat ourselves and each other. Let this space remind you: you are not alone. You are worthy. And you belong.
+</size>
+
+<align="center"><size=160%><color=#ffffff>Dignity isn’t something you earn—it’s something you already have. </color></size>
+<size=800%><sprite index=12></size></align>
+</font>
+</SysPage>
 <SysBook="Hello World Book">
 	<SysPage="Page 1">
 		Hello World. This is the first line of a book!
