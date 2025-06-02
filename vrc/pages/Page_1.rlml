@@ -1,28 +1,28 @@
 <SysBook="Default">
 <SysPage="RAINBOW CALENDAR">
 <size=180%>
-<b><color=#e81416>26.05.25</color></b>
+<b><color=#e81416>02.06.25</color></b>
 <sprite index=0> RAINBO.7059 Social hangout day.
 
-<b><color=#ffa500>27.05.25</color></b>
+<b><color=#ffa500>03.06.25</color></b>
 <sprite index=0> RAINBO.7059 Social hangout day.
 
-<b><color=#faeb36>28.05.25</color></b>
-<sprite index=0> RAINBO.7059 Introductory to Voice Training with Izzy         <b><t:1747256400:t></b> Room: Classroom
+<b><color=#faeb36>04.06.25</color></b>
+<sprite index=0> RAINBO.7059 Social hangout day.
 
-<b><color=#79c314>29.05.25</color></b>
-<sprite index=0> RAINBO.7059 Movie night - Nausicaä of the Valley of the Wind <b><t:1747944000:t></b> World: Popcorn 
-													     Palace
+<b><color=#79c314>05.06.25</color></b>
+<sprite index=0> RAINBO.7059 Movie Night -  Pixar's Soul           <b><t:1748887200:t></b> World: Popcorn Palace
+													   
+<b><color=#487de7>06.06.25</color></b>
+<sprite index=0> RAINBO.7059 Lyxie's Voice training workshop       <b><t:1748894400:t></b> Room: Lecture hall
 
-<b><color=#487de7>30.05.25</color></b>
-<sprite index=0> RAINBO.7059 Lyxie's Voice training workshop                  <b><t:1748030400:t></b> Room: Lecture hall
+<b><color=#4b369d>07.06.25</color></b>
+<sprite index=0> RAINBO.7059 Zarraz's Voice Training Workshop      <b><t:1748887200:t><b> Discord
+<sprite index=0> RAINBO.7059 Rainbow Roams                         <b><t:1748887200:t><b> Various Worlds
+<sprite index=0> RAINBO.7059 Matty's karaoke                       <b><t:1748898000:t></b> World: Karaoke in Sync!
 
-<b><color=#4b369d>31.05.25</color></b>
-<sprite index=0> RAINBO.7059 Zarraz's Voice Training Workshop                 <b><t:1748109600:t></b> Discord
-
-<b><color=#70369d>01.06.25</color></b>
-<sprite index=0> RAINBO.7059 Snacks 'N' Sunday - E08 - Aiya                   <b><t:1748181600:t></b> Room: Commons
-<sprite index=0> RAINBO.7059 Squigg Readings of H. P. Lovecraft               <b><t:1748813400:t></b> Room: Discussion
+<b><color=#70369d>08.06.25</color></b>
+<sprite index=0> RAINBO.7059 Snacks 'N' Sunday                     <b><t:1748181600:t></b> Room: Commons
 
 </size>
 </SysPage>
