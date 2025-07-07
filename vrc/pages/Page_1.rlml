@@ -1,27 +1,27 @@
 <SysBook="Default">
 <SysPage="RAINBOW CALENDAR">
 <size=180%>
-<b><color=#e81416>30.06.25</color></b>
+<b><color=#e81416>07.07.25</color></b>
 <sprite index=0> RAINBO.7059 Social hangout day.
 
-<b><color=#ffa500>01.07.25</color></b>
+<b><color=#ffa500>08.07.25</color></b>
 <sprite index=0> RAINBO.7059 Social hangout day.
 
-<b><color=#faeb36>02.07.25</color></b>
-<sprite index=0> RAINBO.7059 Social hangout day.
+<b><color=#faeb36>09.07.25</color></b>
+<sprite index=0> RAINBO.7059 Introductory to Voice Training with Izzy <b><t:1752094800:t></b> Room: Lecture hall
 
-<b><color=#79c314>03.07.25</color></b>
-<sprite index=0> RAINBO.7059 Movie Night - The Iron Giant                 <b><t:1751572800:t></b> World: Popcorn Palace
+<b><color=#79c314>10.07.25</color></b>
+<sprite index=0> RAINBO.7059 Movie Night - Scott Pilgrim vs The World <b><t:1752177600:t></b> World: Popcorn Palace
 													   
-<b><color=#487de7>04.07.25</color></b>
-<sprite index=0> RAINBO.7059 Lyxie's Voice training workshop              <b><t:1751659200:t></b> Room: Lecture hall
+<b><color=#487de7>11.07.25</color></b>
+<sprite index=0> RAINBO.7059 Lyxie's Voice training workshop          <b><t:1752264000:t></b> Room: Lecture hall
 
-<b><color=#4b369d>05.07.25</color></b>
-<sprite index=0> RAINBO.7059 Zarraz's Voice Training Workshop             <b><t:1751738400:t></b> Discord
-<sprite index=0> RAINBO.7059 Rainbow roams                                <b><t:1751752800:t></b> Various Worlds
+<b><color=#4b369d>12.07.25</color></b>
+<sprite index=0> RAINBO.7059 Zarraz's Voice Training Workshop         <b><t:1752343200:t></b> Discord
+<sprite index=0> RAINBO.7059 Matty's karaoke                          <b><t:1752354000:t></b> World: Karaoke in Sync!
 
-<b><color=#70369d>06.07.25</color></b>
-<sprite index=0> RAINBO.7059 Snacks 'n' Sunday - E13 Fleurette + Kozikoza <b><t:1751810400:t></b> Room: Commons
+<b><color=#70369d>13.07.25</color></b>
+<sprite index=0> RAINBO.7059 Snacks 'n' Sunday - E14 Mckaster         <b><t:1752415200:t></b> Room: Commons
 
 </size>
 </SysPage>
