@@ -1,26 +1,28 @@
 <SysBook="Default">
 <SysPage="RAINBOW CALENDAR">
 <size=180%>
-<b><color=#e81416>28.07.25</color></b>
+<b><color=#e81416>04.08.25</color></b>
 <sprite index=0> RAINBO.7059 Social hangout day.
 
-<b><color=#ffa500>29.07.25</color></b>
-<sprite index=0> RAINBO.7059 Social hangout day.
+<b><color=#ffa500>05.08.25</color></b>
+<sprite index=0> RAINBO.7059 Transfem meetup                          <b><t:1754424000:t></b> Various Worlds
 
-<b><color=#faeb36>30.07.25</color></b>
-<sprite index=0> RAINBO.7059 Social hangout day.
+<b><color=#faeb36>06.08.25</color></b>
+<sprite index=0> RAINBO.7059 Introductory to Voice Training with Izzy <b><t:1754514000:t></b> Room: Lecture Hall
 
-<b><color=#79c314>31.07.25</color></b>
-<sprite index=0> RAINBO.7059 Movie night - An American Tail        <b><t:1753992000:t></b> World: Popcorn Palace
+<b><color=#79c314>07.08.25</color></b>
+<sprite index=0> RAINBO.7059 Movie night TBA                          <b><t:1754596800:t></b> World: Popcorn Palace
 													   
-<b><color=#487de7>01.08.25</color></b>
-<sprite index=0> RAINBO.7059 Lyxie's Voice training workshop       <b><t:1754078400:t></b> Room: Lecture hall
+<b><color=#487de7>08.08.25</color></b>
+<sprite index=0> RAINBO.7059 Transmasc meetup                         <b><t:1754679600:t></b> Various Worlds
+<sprite index=0> RAINBO.7059 Lyxie's Voice training workshop          <b><t:1754683200:t></b> Room: Lecture hall
 
-<b><color=#4b369d>02.08.25</color></b>
-<sprite index=0> RAINBO.7059 Social hangout day.
+<b><color=#4b369d>09.08.25</color></b>
+<sprite index=0> RAINBO.7059 Non-binary meetup                        <b><t:1754766000:t></b> Various Worlds
+<sprite index=0> RAINBO.7059 Rainbow roams                            <b><t:1754776800:t></b> Various Worlds
 
-<b><color=#70369d>03.08.25</color></b>
-<sprite index=0> RAINBO.7059 Snacks 'n' Sunday - E17 E-Goddess     <b><t:1754229600:t></b> Room: Commons
+<b><color=#70369d>10.08.25</color></b>
+<sprite index=0> RAINBO.7059 Snacks 'n' Sunday - E18 roguewitxh       <b><t:1754834400:t></b> Room: Commons
 
 </size>
 </SysPage>
@@ -805,5 +807,6 @@ Dignity lives in how we treat ourselves and each other. Let this space remind yo
 		This is the third!
 	</SysPage>
 </SysBook>
+
 
 
