@@ -1,26 +1,28 @@
 <SysBook="Default">
 <SysPage="RAINBOW CALENDAR">
 <size=180%>
-<b><color=#e81416>14.07.25</color></b>
+<b><color=#e81416>04.08.25</color></b>
 <sprite index=0> RAINBO.7059 Social hangout day.
 
-<b><color=#ffa500>15.07.25</color></b>
-<sprite index=0> RAINBO.7059 Social hangout day.
+<b><color=#ffa500>05.08.25</color></b>
+<sprite index=0> RAINBO.7059 Femme Sublime Time                       <b><t:1754424000:t></b> Various Worlds
 
-<b><color=#faeb36>16.07.25</color></b>
-<sprite index=0> RAINBO.7059 Social hangout day.
+<b><color=#faeb36>06.08.25</color></b>
+<sprite index=0> RAINBO.7059 Introductory to Voice Training with Izzy <b><t:1754514000:t></b> Room: Lecture Hall
 
-<b><color=#79c314>17.07.25</color></b>
-<sprite index=0> RAINBO.7059 Movie Night -  Animated Queer TV Ep Selection <b><t:1752782400:t></b> World: Popcorn Palace
+<b><color=#79c314>07.08.25</color></b>
+<sprite index=0> RAINBO.7059 Social hangout day.
 													   
-<b><color=#487de7>18.07.25</color></b>
-<sprite index=0> RAINBO.7059 Lyxie's Voice training workshop               <b><t:1752868800:t></b> Room: Lecture hall
+<b><color=#487de7>08.08.25</color></b>
+<sprite index=0> RAINBO.7059 Transmasc & Chill                        <b><t:1754679600:t></b> Various Worlds
+<sprite index=0> RAINBO.7059 Lyxie's Voice training workshop          <b><t:1754683200:t></b> Room: Lecture hall
 
-<b><color=#4b369d>19.07.25</color></b>
-<sprite index=0> RAINBO.7059 Zarraz's Voice Training Workshop              <b><t:1752948000:t></b> Discord
+<b><color=#4b369d>09.08.25</color></b>
+<sprite index=0> RAINBO.7059 Gender Chaos Hour                        <b><t:1754766000:t></b> Various Worlds
+<sprite index=0> RAINBO.7059 Rainbow roams                            <b><t:1754776800:t></b> Various Worlds
 
-<b><color=#70369d>20.07.25</color></b>
-<sprite index=0> RAINBO.7059 Snacks 'n' Sunday - E15 Ellie53               <b><t:1753020000:t></b> Room: Commons
+<b><color=#70369d>10.08.25</color></b>
+<sprite index=0> RAINBO.7059 Snacks 'n' Sunday - E18 roguewitxh       <b><t:1754834400:t></b> Room: Commons
 
 </size>
 </SysPage>
@@ -545,12 +547,14 @@ Dogfish                  Akimbo
 Astral_Druid             CarlyTheGoth
 Opal_Does_Magic          Ellie53
 Diffidence               Azzy / Amy
--Parpar-                 Asheris
+Asheris                  QueenVixen42
 Gwen the dwagon          BitiTiger
 emma eclipse             Blutengel
 brassflamingo            lexi is cute
 DagiWeh                  Aiya Sarah
 Cosmic Maestra           Arctic_Amethyst
+E-Thegoddess             Rua_auR
+Cmdr Modder              QueenVixen42
 </size>
 
 <line-height=120%><size=110%><color=#fad42a>Contributions</color></size></line-height>
@@ -803,3 +807,8 @@ Dignity lives in how we treat ourselves and each other. Let this space remind yo
 		This is the third!
 	</SysPage>
 </SysBook>
+
+
+
+
+
