@@ -557,11 +557,11 @@ E-Thegoddess             Rua_auR
 Cmdr Modder              QueenVixen42
 </size>
 
-<line-height=120%><size=110%><color=#fad42a>Contributions</color></size></line-height>
+<line-height=100%><size=110%><color=#fad42a>Contributions</color></size></line-height>
 Niko - for the amazing globe and space shader
 
 <font="LiberationSans SDF">
-<align="center"><size=130%><color=#ffffff>
+<align="center"><size=120%><color=#ffffff>
 This space would not exist
 without the people who shape it.
 
@@ -807,6 +807,7 @@ Dignity lives in how we treat ourselves and each other. Let this space remind yo
 		This is the third!
 	</SysPage>
 </SysBook>
+
 
 
 
