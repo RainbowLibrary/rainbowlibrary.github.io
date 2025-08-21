@@ -1,26 +1,28 @@
 <SysBook="Default">
 <SysPage="RAINBOW CALENDAR">
 <size=180%>
-<b><color=#e81416>11.08.25</color></b>
+<b><color=#e81416>18.08.25</color></b>
 <sprite index=0> RAINBO.7059 Social hangout day.
 
-<b><color=#ffa500>12.08.25</color></b>
-<sprite index=0> RAINBO.7059 Femme Sublime Time                     <b><t:1755028800:t></b> Various Worlds
+<b><color=#ffa500>19.08.25</color></b>
+<sprite index=0> RAINBO.7059 Femme Sublime Time                      <b><t:1755633600:t></b> Various Worlds
 
-<b><color=#faeb36>13.08.25</color></b>
-<sprite index=0> RAINBO.7059 Headmate Hangout                       <b><t:1755108000:t></b> Various Worlds
+<b><color=#faeb36>20.08.25</color></b>
+<sprite index=0> RAINBO.7059 Practical Voice Training w/Izzy         <b><t:1755464400:t></b> Room: Lecture Hall
 
-<b><color=#79c314>14.08.25</color></b>
-<sprite index=0> RAINBO.7059 Movie Night - Pixar's Luca             <b><t:1755201600:t></b> World: Popcorn Palace
+<b><color=#79c314>21.08.25</color></b>
+<sprite index=0> RAINBO.7059 Movie Night - Night at the Museum       <b><t:1755806400:t></b> World: Popcorn Palace
 													   
-<b><color=#487de7>15.08.25</color></b>
-<sprite index=0> RAINBO.7059 Lyxie's Voice training workshop        <b><t:1755288000:t></b> Room: Lecture hall
+<b><color=#487de7>22.08.25</color></b>
+<sprite index=0> RAINBO.7059 Transmasc & Chill                       <b><t:1755889200:t></b> Various Worlds
+<sprite index=0> RAINBO.7059 Voice Training workshop with Lyxie      <b><t:1755892800:t></b> Room: Lecture hall
 
-<b><color=#4b369d>16.08.25</color></b>
-<sprite index=0> RAINBO.7059 Rainbow Howl                           <b><t:1755378000:t></b> Various Worlds
+<b><color=#4b369d>23.08.25</color></b>
+<sprite index=0> RAINBO.7059 Gender Chaos Hour                       <b><t:1755975600:t></b> Various Worlds
+<sprite index=0> RAINBO.7059 Rainbow Roams: Aquatic                  <b><t:1755986400:t></b> Various worlds
 
-<b><color=#70369d>17.08.25</color></b>
-<sprite index=0> RAINBO.7059 Snacks 'n' Sunday - E19 Mckaster       <b><t:1755439200:t></b> Room: Commons
+<b><color=#70369d>24.08.25</color></b>
+<sprite index=0> RAINBO.7059 Snacks 'n' Sunday - E20 Achllys         <b><t:1756044000:t></b> Room: Commons
 
 </size>
 </SysPage>
@@ -545,7 +547,7 @@ Dogfish                  Akimbo
 RGTailSplash             CarlyTheGoth
 Opal_Does_Magic          Ellie53
 Diffidence               Azzy / Amy
-Asheris                  QueenVixen42
+Asheris                  Pongo
 Gwen the dwagon          BitiTiger
 emma eclipse             Blutengel
 brassflamingo            lexi is cute
@@ -553,7 +555,6 @@ DagiWeh                  Aiya Sarah
 Cosmic Maestra           Arctic_Amethyst
 E-Thegoddess             Rua_auR
 Cmdr Modder              QueenVixen42
-RGTailSplash
 </size>
 
 <line-height=60%><size=110%><color=#fad42a>Contributions</color></size></line-height>
@@ -806,6 +807,8 @@ Dignity lives in how we treat ourselves and each other. Let this space remind yo
 		This is the third!
 	</SysPage>
 </SysBook>
+
+
 
 
 
