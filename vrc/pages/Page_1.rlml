@@ -1,28 +1,27 @@
 <SysBook="Default">
 <SysPage="RAINBOW CALENDAR">
 <size=180%>
-<b><color=#e81416>18.08.25</color></b>
+<b><color=#e81416>25.08.25</color></b>
 <sprite index=0> RAINBO.7059 Social hangout day.
 
-<b><color=#ffa500>19.08.25</color></b>
-<sprite index=0> RAINBO.7059 Femme Sublime Time                      <b><t:1755633600:t></b> Various Worlds
+<b><color=#ffa500>26.08.25</color></b>
+<sprite index=0> RAINBO.7059 Femme Sublime Time                         <b><t:1756238400:t></b> Various Worlds
 
-<b><color=#faeb36>20.08.25</color></b>
-<sprite index=0> RAINBO.7059 Practical Voice Training w/Izzy         <b><t:1755464400:t></b> Room: Lecture Hall
+<b><color=#faeb36>27.08.25</color></b>
+<sprite index=0> RAINBO.7059 Headmate Hangout                           <b><t:1756317600:t></b> Various worlds
 
-<b><color=#79c314>21.08.25</color></b>
-<sprite index=0> RAINBO.7059 Movie Night - Night at the Museum       <b><t:1755806400:t></b> World: Popcorn Palace
+<b><color=#79c314>28.08.25</color></b>
+<sprite index=0> RAINBO.7059 Movie Nightg - Atlantis: The Lost Empire   <b><t:1756411200:t></b> World: Popcorn Palace
 													   
-<b><color=#487de7>22.08.25</color></b>
-<sprite index=0> RAINBO.7059 Transmasc & Chill                       <b><t:1755889200:t></b> Various Worlds
-<sprite index=0> RAINBO.7059 Voice Training workshop with Lyxie      <b><t:1755892800:t></b> Room: Lecture hall
+<b><color=#487de7>29.08.25</color></b>
+<sprite index=0> RAINBO.7059 Voice Training workshop with Lyxie         <b><t:1756497600:t></b> Room: Lecture hall
 
-<b><color=#4b369d>23.08.25</color></b>
-<sprite index=0> RAINBO.7059 Gender Chaos Hour                       <b><t:1755975600:t></b> Various Worlds
-<sprite index=0> RAINBO.7059 Rainbow Roams: Aquatic                  <b><t:1755986400:t></b> Various worlds
+<b><color=#4b369d>30.08.25</color></b>
+<sprite index=0> RAINBO.7059 Rainbow Howl                               <b><t:1756587600:t></b> Various Worlds
 
-<b><color=#70369d>24.08.25</color></b>
-<sprite index=0> RAINBO.7059 Snacks 'n' Sunday - E20 Achllys         <b><t:1756044000:t></b> Room: Commons
+<b><color=#70369d>31.08.25</color></b>
+<sprite index=0> RAINBO.7059 Snacks 'n' Sunday - E21 Lui2k              <b><t:1756648800:t></b> Room: Commons
+<sprite index=0> RAINBO.7059 Squigg Reading of H. P. Lovecraft          <b><t:1756674000:t></b> Room: Discussion
 
 </size>
 </SysPage>
@@ -549,12 +548,15 @@ Opal_Does_Magic          Ellie53
 Diffidence               Azzy / Amy
 Asheris                  Pongo
 Gwen the dwagon          BitiTiger
-emma eclipse             Blutengel
+emma eclipse             QueenVixen42
 brassflamingo            lexi is cute
 DagiWeh                  Aiya Sarah
 Cosmic Maestra           Arctic_Amethyst
 E-Thegoddess             Rua_auR
 Cmdr Modder              QueenVixen42
+Clavicus Vile            Crimson Candy
+_Essick_                 Scyllian_
+MissSerena
 </size>
 
 <line-height=60%><size=110%><color=#fad42a>Contributions</color></size></line-height>
@@ -807,6 +809,13 @@ Dignity lives in how we treat ourselves and each other. Let this space remind yo
 		This is the third!
 	</SysPage>
 </SysBook>
+
+
+
+
+
+
+
 
 
 
