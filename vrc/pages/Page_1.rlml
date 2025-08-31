@@ -523,10 +523,10 @@ We invite everyone, regardless of where they are in their gender journey, to use
 
 <SysPage="CREDITS">
 <font="LiberationSans SDF">
-<size=120%><color=#ffffff>The Rainbow Library exists thanks to the care, time, and dedication of its community. This space is a collective effort, built with love and maintained by volunteers across many areas.</color></size>
+<size=110%><color=#ffffff>The Rainbow Library exists thanks to the care, time, and dedication of its community. This space is a collective effort, built with love and maintained by volunteers across many areas.</color></size>
 </font>
 
-<line-height=110%><size=110%><color=#fad42a>Volunteers</color></size></line-height>
+<line-height=100%><size=100%><color=#fad42a>Volunteers</color></size></line-height>
 <size=100%>
 Starlight                Kaiyo
 kozikoza                 Katja
@@ -559,7 +559,7 @@ _Essick_                 Scyllian_
 MissSerena
 </size>
 
-<line-height=40%><size=100%><color=#fad42a>Contributions</color></size></line-height>
+<line-height=20%><size=100%><color=#fad42a>Contributions</color></size></line-height>
 Niko - for the amazing globe and space shader
 
 <font="LiberationSans SDF">
@@ -809,6 +809,7 @@ Dignity lives in how we treat ourselves and each other. Let this space remind yo
 		This is the third!
 	</SysPage>
 </SysBook>
+
 
 
 
