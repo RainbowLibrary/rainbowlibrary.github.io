@@ -1,29 +1,28 @@
 <SysBook="Default">
 <SysPage="RAINBOW CALENDAR">
 <size=180%>
-<b><color=#e81416>01.09.25</color></b>
+<b><color=#e81416>08.09.25</color></b>
 <sprite index=0> RAINBO.7059 Social hangout day.
 
-<b><color=#ffa500>02.09.25</color></b>
-<sprite index=0> RAINBO.7059 Femme Sublime Time                         <b><t:1756843200:t></b> Various Worlds
+<b><color=#ffa500>09.09.25</color></b>
+<sprite index=0> RAINBO.7059 Femme Sublime Time                                <b><t:1757448000:t></b> Various Worlds
 
-<b><color=#faeb36>03.09.25</color></b>
-<sprite index=0> RAINBO.7059 Practical Voice Training w/Izzy            <b><t:1756933200:t></b> Room: Lecture Hall
+<b><color=#faeb36>10.09.25</color></b>
+<sprite index=0> RAINBO.7059 Headmate Hangout                                  <b><t:1757527200:t></b> Room: Lecture Hall
 
-<b><color=#79c314>04.09.25</color></b>
-<sprite index=0> RAINBO.7059 Movie Night - Monsters Inc.                <b><t:1757016000:t></b> World: Popcorn Palace
+<b><color=#79c314>11.09.25</color></b>
+<sprite index=0> RAINBO.7059 Movie Night - Dungeons and Dragons: Honor Among Thieves  <b><t:1757620800:t></b> World: Popcorn Palace
 													   
-<b><color=#487de7>05.09.25</color></b>
-<sprite index=0> RAINBO.7059 Transmasc & Chill                          <b><t:1757098800:t></b> Various Worlds
-<sprite index=0> RAINBO.7059 Voice Training workshop with Lyxie         <b><t:1757102400:t></b> Room: Lecture hall
+<b><color=#487de7>12.09.25</color></b>
+<sprite index=0> RAINBO.7059 Voice Training workshop with Lyxie                <b><t:1757707200:t></b> Room: Lecture hall
 
-<b><color=#4b369d>06.09.25</color></b>
-<sprite index=0> RAINBO.7059 Gender Chaos Hour                          <b><t:1757185200:t></b> Various Worlds
-<sprite index=0> RAINBO.7059 Matty's karaoke                            <b><t:1757196000:t></b> World: Karaoke in Sync!
+<b><color=#4b369d>13.09.25</color></b>
+<sprite index=0> RAINBO.7059 Gender Chaos Hour                                 <b><t:1757797200:t></b> Various Worlds
+<sprite index=0> RAINBO.7059 Rainbow Roams: Game Night's                       <b><t:1757800800:t></b> Various Worlds
+<sprite index=0> RAINBO.7059 Rainbow Library and Skits 'n' Bits collab         <b><t:1757800800:t></b> Room: Commons
 
-<b><color=#70369d>07.09.25</color></b>
-<sprite index=0> RAINBO.7059 Rainbow Questionnaire                      <b><t:1757257200:t></b> Room: Commons
-<sprite index=0> RAINBO.7059 Squigg's Reading of H. P. Lovecraft        <b><t:1757278800:t></b> Room: Discussion
+<b><color=#70369d>14.09.25</color></b>
+<sprite index=0> RAINBO.7059 Snacks 'n' Sunday - MicroRave x Highscore Collab  <b><t:1757858400:t></b> Room: Commons
 
 </size>
 </SysPage>
@@ -811,6 +810,7 @@ Dignity lives in how we treat ourselves and each other. Let this space remind yo
 		This is the third!
 	</SysPage>
 </SysBook>
+
 
 
 
