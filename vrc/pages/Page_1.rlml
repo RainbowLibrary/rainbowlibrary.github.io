@@ -5,21 +5,21 @@
 <sprite index=0> RAINBO.7059 Social hangout day.
 
 <b><color=#ffa500>09.09.25</color></b>
-<sprite index=0> RAINBO.7059 Femme Sublime Time                          <b><t:1757448000:t></b> Various Worlds
+<sprite index=0> RAINBO.7059 Femme Sublime Time                                    <b><t:1757448000:t></b> Various Worlds
 
 <b><color=#faeb36>10.09.25</color></b>
-<sprite index=0> RAINBO.7059 Headmate Hangout                            <b><t:1757527200:t></b> Room: Lecture Hall
+<sprite index=0> RAINBO.7059 Headmate Hangout                                      <b><t:1757527200:t></b> Room: Lecture Hall
 
 <b><color=#79c314>11.09.25</color></b>
 <size=160%><sprite index=0> RAINBO.7059 Movie Night - Dungeons and Dragons: Honor Among Thieves  <b><t:1757620800:t></b> World: Popcorn Palace</size>
 													   
 <b><color=#487de7>12.09.25</color></b>
-<sprite index=0> RAINBO.7059 Voice Training workshop with Lyxie          <b><t:1757707200:t></b> Room: Lecture hall
+<sprite index=0> RAINBO.7059 Voice Training workshop with Lyxie                    <b><t:1757707200:t></b> Room: Lecture hall
 
 <b><color=#4b369d>13.09.25</color></b>
-<sprite index=0> RAINBO.7059 Gender Chaos Hour                           <b><t:1757797200:t></b> Various Worlds
-<sprite index=0> RAINBO.7059 Rainbow Roams: Game Night's                 <b><t:1757800800:t></b> Various Worlds
-<sprite index=0> RAINBO.7059 Rainbow Library and Skits 'n' Bits collab   <b><t:1757800800:t></b> Room: Commons
+<sprite index=0> RAINBO.7059 Gender Chaos Hour                                     <b><t:1757797200:t></b> Various Worlds
+<sprite index=0> RAINBO.7059 Rainbow Roams: Game Night's                           <b><t:1757800800:t></b> Various Worlds
+<sprite index=0> RAINBO.7059 Rainbow Library and Skits 'n' Bits collab             <b><t:1757800800:t></b> Room: Commons
 
 <b><color=#70369d>14.09.25</color></b>
 <sprite index=0> RAINBO.7059 Snacks 'n' Sunday E23 - MicroRave x Highscore Collab  <b><t:1757858400:t></b> Room: Commons
@@ -810,6 +810,7 @@ Dignity lives in how we treat ourselves and each other. Let this space remind yo
 		This is the third!
 	</SysPage>
 </SysBook>
+
 
 
 
