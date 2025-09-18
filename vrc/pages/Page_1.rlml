@@ -8,14 +8,14 @@
 <sprite index=0> RAINBO.7059 Social hangout day.
 
 <b><color=#faeb36>17.09.25</color></b>
-<sprite index=0> RAINBO.7059 Practical Voice Training w/Izzy  <b><t:1758142800:t></b> Room: Lecture Hall
+<sprite index=0> RAINBO.7059 Practical Voice Training w/Izzy             <b><t:1758142800:t></b> Room: Lecture Hall
 
 <b><color=#79c314>18.09.25</color></b>
 <size=160%><sprite index=0> RAINBO.7059 Movie Night - POTC: The Curse of the Black Pearl  <b><t:1758225600:t></b> World: Popcorn Palace</size>
 													   
 <b><color=#487de7>19.09.25</color></b>
-<sprite index=0> RAINBO.7059 Transmasc & Chill                   <b><t:1758308400:t></b> Various Worlds
-<sprite index=0> RAINBO.7059 Voice Training workshop with Lyxie  <b><t:1757707200:t></b> Room: Lecture hall
+<sprite index=0> RAINBO.7059 Transmasc & Chill                           <b><t:1758308400:t></b> Various Worlds
+<sprite index=0> RAINBO.7059 Voice Training workshop with Lyxie          <b><t:1757707200:t></b> Room: Lecture hall
 
 <b><color=#4b369d>20.09.25</color></b>
 <sprite index=0> RAINBO.7059 Gender Chaos Hour                           <b><t:1758394800:t></b> Various Worlds
@@ -811,6 +811,7 @@ Dignity lives in how we treat ourselves and each other. Let this space remind yo
 		This is the third!
 	</SysPage>
 </SysBook>
+
 
 
 
