@@ -529,8 +529,8 @@ We invite everyone, regardless of where they are in their gender journey, to use
 <size=80%><color=#ffffff>The Rainbow Library exists thanks to the care, time, and dedication of its community. This space is a collective effort, built with love and maintained by volunteers across many areas.</color></size>
 </font>
 
-<line-height=80%><size=70%><color=#fad42a>Volunteers</color></size></line-height>
-<size=900%>
+<line-height=40%><size=100%><color=#fad42a>Volunteers</color></size></line-height>
+<size=90%>
 Asheris                  Kaiyo
 kozikoza                 Katja
 Jellvi                   Lyxie
@@ -566,7 +566,7 @@ LiveDevilishlyy          SliverBean23
 Niko - for the amazing globe and space shader
 
 <font="LiberationSans SDF">
-<align="center"><size=60%><color=#ffffff>
+<align="center"><size=70%><color=#ffffff>
 This space would not exist
 without the people who shape it.
 
@@ -812,6 +812,7 @@ Dignity lives in how we treat ourselves and each other. Let this space remind yo
 		This is the third!
 	</SysPage>
 </SysBook>
+
 
 
 
