@@ -11,7 +11,7 @@
 <sprite index=0> RAINBO.7059 Headmate Hangout                        <b><t:1758736800:t></b> Various Worlds
 
 <b><color=#79c314>09.10.25</color></b>         
-<size=160%><sprite index=0> RAINBO.7059 Movie Night - Wallace & Gromit: The Curse of the Were-Rabbit <b><t:1759435200:t></b> World: Popcorn Palace</size>
+<size=150%><sprite index=0> RAINBO.7059 Movie Night - Wallace & Gromit: The Curse of the Were-Rabbit <b><t:1759435200:t></b> World: Popcorn Palace</size>
 													   
 <b><color=#487de7>10.10.25</color></b>
 <sprite index=0> RAINBO.7059 Voice Training workshop with Lyxie      <b><t:1759521600:t></b> Room: Lecture Hall
@@ -810,6 +810,7 @@ Dignity lives in how we treat ourselves and each other. Let this space remind yo
 		This is the third!
 	</SysPage>
 </SysBook>
+
 
 
 
