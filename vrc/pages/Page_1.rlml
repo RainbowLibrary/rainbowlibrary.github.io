@@ -23,7 +23,7 @@
 <b><color=#70369d>12.10.25</color></b>
 <sprite index=0> RAINBO.7059 Snacks 'n' Sunday - E27 The Game Show   <b><t:1759672800:t></b> Room: Stage
 <sprite index=0> RAINBO.7059 Neurodivergent Network Hangout          <b><t:1760292000:t></b> Various Worlds
-
+<sprite index=0> RAINBO.7059 Squigg Readings of H. P. Lovecraft      <b><t:1760304600:t></b> Room: Discussion
 </size>
 </SysPage>
 <SysPage="SUPPORT">
@@ -812,6 +812,7 @@ Dignity lives in how we treat ourselves and each other. Let this space remind yo
 		This is the third!
 	</SysPage>
 </SysBook>
+
 
 
 
