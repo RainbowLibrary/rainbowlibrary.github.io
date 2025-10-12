@@ -1,0 +1,122 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Rainbow Library</title>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            margin: 0;
+            padding: 0;
+            background: linear-gradient(to right, #ff9a9e, #fad0c4, #fbc2eb);
+            color: #333;
+        }
+        header {
+            background-color: #6a1b9a;
+            color: white;
+            padding: 20px;
+            text-align: center;
+        }
+        header h1 {
+            font-size: 4.5em;
+            text-align: center;
+            background: linear-gradient(to right, red, olive, lime, cyan, blue, magenta, red);
+            background-size: 200%;
+            -webkit-background-clip: text;
+            -webkit-text-fill-color: transparent;
+            margin-bottom: 20px;
+            animation: rainbowText 20s linear infinite;
+        }
+        
+        @keyframes rainbowText {
+            0% { background-position: 0%; }
+            100% { background-position: 200%; }
+        }
+        
+        nav {
+            text-align: center;
+            margin: 20px 0;
+        }
+        nav a {
+            text-decoration: none;
+            color: #6a1b9a;
+            font-weight: bold;
+            margin: 0 5px;
+            padding: 10px 15px;
+            border: 2px solid #6a1b9a;
+            border-radius: 5px;
+            transition: all 0.3s;
+        }
+        nav a:hover {
+            background-color: #6a1b9a;
+            color: white;
+        }
+        section {
+            padding: 10px;
+            max-width: 800px;
+            margin: 0 auto;
+            text-align: center;
+        }
+        section h2 {
+            font-size: 2em;
+            color: #6a1b9a;
+        }
+        section p {
+            font-size: 1.2em;
+            line-height: 1.6;
+        }
+        footer {
+            background-color: #6a1b9a;
+            color: white;
+            text-align: center;
+            padding: 10px;
+            position: fixed;
+            bottom: 0;
+            width: 100%;
+        }
+    </style>
+</head>
+<body>
+    <header>
+        <h1>Rainbow Library</h1>
+        <p>Your LGBTQ+ VRChat Community for Peer Support and Real-Life Help</p>
+    </header>
+
+    <nav>
+        <a href="#about">About Us</a>
+        <a href="#discord">Join Our Discord</a>
+        <a href="#support">Get Support</a>
+        <a href="#patreon">Support Us on Patreon</a>
+        <a href="#vrchat">VRChat Group</a>
+    </nav>
+
+    <section id="about">
+        <p>The Rainbow Library is a vibrant LGBTQ+ community on VRChat and independent platforms, dedicated to providing a safe and inclusive space for peer support, real-life assistance, and meaningful connections. We welcome everyone under the rainbow and allies too!</p>
+    </section>
+
+    <section id="discord">
+        <h2>Join Our Discord</h2>
+        <p>Connect with us on Discord to participate in discussions, events, and access resources. <br><a href="https://discord.gg/fkKuar9h" target="_blank" style="color: #6a1b9a; font-weight: bold;">Click here to join!</a></p>
+    </section>
+
+    <section id="support">
+        <h2>Get Support</h2>
+        <p>If you need someone to talk to or are looking for guidance, our team is here to help. Reach out to us through our Discord server, or explore our resource guides for assistance.</p>
+    </section>
+
+    <section id="patreon">
+        <h2>Support Us on Patreon</h2>
+        <p>Your support helps us grow and keep providing valuable resources to our community. <br><a href="https://www.patreon.com/c/RainbowLibraryVR" target="_blank" style="color: #6a1b9a; font-weight: bold;">Click here to become a patron!</a></p>
+    </section>
+
+    <section id="vrchat">
+        <h2>VRChat Group</h2>
+        <p>Join our VRChat group to meet members and participate in immersive events. <br><a href="https://vrchat.com/home/group/grp_1134d194-858d-4407-9df2-18ae9089d86d" target="_blank" style="color: #6a1b9a; font-weight: bold;">Click here to join the group!</a></p>
+    </section>
+
+    <footer>
+        <p>&copy; 2025 Rainbow Library | Empowering Lives, Building Community</p>
+    </footer>
+</body>
+</html>
