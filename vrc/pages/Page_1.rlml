@@ -11,7 +11,7 @@
 <sprite index=0> RAINBO.7059 Practical Voice Training w/Izzy          <b><t:1759352400:t></b> Room: Lecture Hall
 
 <b><color=#79c314>16.10.25</color></b>         
-<sprite index=0> RAINBO.7059 Movie Night                   <b><t:1759435200:t></b> World: Popcorn Palace
+<sprite index=0> RAINBO.7059 Movie Night                              <b><t:1759435200:t></b> World: Popcorn Palace
 													   
 <b><color=#487de7>17.10.25</color></b>
 <sprite index=0> RAINBO.7059 Voice Training workshop with Lyxie       <b><t:1759521600:t></b> Room: Lecture Hall
@@ -811,6 +811,7 @@ Dignity lives in how we treat ourselves and each other. Let this space remind yo
 		This is the third!
 	</SysPage>
 </SysBook>
+
 
 
 
