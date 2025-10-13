@@ -1,29 +1,28 @@
 <SysBook="Default">
 <SysPage="RAINBOW CALENDAR">
 <size=170%>
-<b><color=#e81416>06.10.25</color></b>
+<b><color=#e81416>13.10.25</color></b>
 <sprite index=0> RAINBO.7059 Social hangout day.
 
-<b><color=#ffa500>07.10.25</color></b>
-<sprite index=0> RAINBO.7059 Femme Sublime Time                      <b><t:1758657600:t></b> Various Worlds
+<b><color=#ffa500>14.10.25</color></b>
+<sprite index=0> RAINBO.7059 Social hangout day.
 
-<b><color=#faeb36>08.10.25</color></b>
-<sprite index=0> RAINBO.7059 Headmate Hangout                        <b><t:1758736800:t></b> Various Worlds
+<b><color=#faeb36>15.10.25</color></b>
+<sprite index=0> RAINBO.7059 Practical Voice Training w/Izzy          <b><t:1759352400:t></b> Room: Lecture Hall
 
-<b><color=#79c314>09.10.25</color></b>         
-<size=150%><sprite index=0> RAINBO.7059 Movie Night - Wallace & Gromit: The Curse of the Were-Rabbit <b><t:1759435200:t></b> World: Popcorn Palace</size>
+<b><color=#79c314>16.10.25</color></b>         
+<sprite index=0> RAINBO.7059 Movie Night                   <b><t:1759435200:t></b> World: Popcorn Palace
 													   
-<b><color=#487de7>10.10.25</color></b>
-<sprite index=0> RAINBO.7059 Voice Training workshop with Lyxie      <b><t:1759521600:t></b> Room: Lecture Hall
+<b><color=#487de7>17.10.25</color></b>
+<sprite index=0> RAINBO.7059 Voice Training workshop with Lyxie       <b><t:1759521600:t></b> Room: Lecture Hall
 
-<b><color=#4b369d>11.10.25</color></b>
-<sprite index=0> RAINBO.7059 Rainbow Howl                            <b><t:1759006800:t></b> Various Worlds
-<sprite index=0> RAINBO.7059 Rainbow Roams: Game Night's             <b><t:1759010400:t></b> Various Worlds
+<b><color=#4b369d>18.10.25</color></b>
+<sprite index=0> RAINBO.7059 Gender Chaos Hour                        <b><t:1760814000:t></b> Various Worlds
+<sprite index=0> RAINBO.7059 Transmasc & Chill                        <b><t:1760817600:t></b> Various Worlds
 
-<b><color=#70369d>12.10.25</color></b>
-<sprite index=0> RAINBO.7059 Snacks 'n' Sunday - E27 The Game Show   <b><t:1759672800:t></b> Room: Stage
-<sprite index=0> RAINBO.7059 Neurodivergent Network Hangout          <b><t:1760292000:t></b> Various Worlds
-<sprite index=0> RAINBO.7059 Squigg Readings of H. P. Lovecraft      <b><t:1760304600:t></b> Room: Discussion
+<b><color=#70369d>19.10.25</color></b>
+<sprite index=0> RAINBO.7059 Snacks 'n' Sunday - E28 Lilith Lycoris   <b><t:1759672800:t></b> Room: Commons
+
 </size>
 </SysPage>
 <SysPage="SUPPORT">
@@ -812,6 +811,7 @@ Dignity lives in how we treat ourselves and each other. Let this space remind yo
 		This is the third!
 	</SysPage>
 </SysBook>
+
 
 
 
