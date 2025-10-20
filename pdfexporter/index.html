@@ -1,0 +1,78 @@
+<!DOCTYPE HTML>
+<html>
+    <head>
+        <script src="./js/jszip.js"></script>
+        <script src="https://cdnjs.cloudflare.com/ajax/libs/pdf.js/3.11.174/pdf.min.js"></script>
+        <script>
+            pdfjsLib.GlobalWorkerOptions.workerSrc = 'https://cdnjs.cloudflare.com/ajax/libs/pdf.js/3.11.174/pdf.worker.min.js';
+        </script>
+        <title> Rainbow Library PDF to ZIP with PNGs converter </title>
+
+        <link rel="stylesheet" href="style.css">
+    </head>
+
+    <body>
+        <h1> Rainbow Library PDF to ZIP converter.</h1>
+        <p>
+            This tool converts a PDF to a ZIP with a series of PNG images, starting at 1. 
+            <br> <br>
+            This format is (hopefully) suitable for submission to Rainbow Library presentation system. It's still a work a work in progress, though. Please let us know if you have any ideas or issues on our Discord!
+            <br> <br>
+            The tool runs entirely on your browser, and any files you upload remain on your computer. Rainbow Library, or its partners, will never see your files.
+            <br> <br>
+            If you'd like to learn more about Rainbow Library, and the work we do, check us out at <a href="https://rainbowlibrary.eu">rainbowlibrary.eu</a>!
+        </p>
+
+        <input type="file" id="upload" accept="application/pdf" />
+        <canvas id="pdf-canvas" style="display:none;"></canvas>
+        <br />
+        <a id="download-link" download="presentation.zip" style="display:none;">Download ZIP</a>
+        <script>
+            const fileInput = document.getElementById('upload');
+            const canvas = document.getElementById('pdf-canvas');
+            const ctx = canvas.getContext('2d');
+            const downloadLink = document.getElementById('download-link');
+            
+            const zip = new JSZip();
+            fileInput.addEventListener('change', async (e) => {
+                const file = e.target.files[0];
+                if (!file) return;
+
+                const arrayBuffer = await file.arrayBuffer();
+
+                const pdf = await pdfjsLib.getDocument({ data: arrayBuffer }).promise;
+                
+                for (i = 1; i <= pdf.numPages; i++) {
+                    const page = await pdf.getPage(i); // Current page
+
+                    const viewport = page.getViewport({ scale: 2.0 });
+
+                    canvas.width = viewport.width;
+                    canvas.height = viewport.height;
+
+                    const renderContext = {
+                        canvasContext: ctx,
+                        viewport: viewport
+                    };
+
+                    await page.render(renderContext).promise;
+
+                    // Export to PNG
+                    const pngDataUrl = canvas.toDataURL('image/png');
+                    let canvasImage = new Image();
+                    canvasImage.src = pngDataUrl;
+
+                    zip.file("" + i + ".png", canvasImage.src.substr(canvasImage.src.indexOf(',')+1), {base64: true});
+
+                }
+                
+                zip.generateAsync({type:"blob"}).then(function(object) {
+                    downloadLink.href = window.URL.createObjectURL(object);
+                    downloadLink.style = "";
+                });
+                
+            });
+
+        </script>
+    </body>
+</html>
