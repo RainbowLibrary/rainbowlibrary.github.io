@@ -1,27 +1,30 @@
 <SysBook="Default">
 <SysPage="RAINBOW CALENDAR">
 <size=170%>
-<b><color=#e81416>13.10.25</color></b>
+<b><color=#e81416>20.10.25</color></b>
 <sprite index=0> RAINBO.7059 Social hangout day.
 
-<b><color=#ffa500>14.10.25</color></b>
-<sprite index=0> RAINBO.7059 Social hangout day.
+<b><color=#ffa500>21.10.25</color></b>
+<sprite index=0> RAINBO.7059 Femme Sublime Time                     <b><t:1758657600:t></b> Various Worlds
 
-<b><color=#faeb36>15.10.25</color></b>
-<sprite index=0> RAINBO.7059 Practical Voice Training w/Izzy          <b><t:1759352400:t></b> Room: Lecture Hall
+<b><color=#faeb36>22.10.25</color></b>
+<sprite index=0> RAINBO.7059 Headmate Hangout                       <b><t:1758736800:t></b> Various Worlds
 
-<b><color=#79c314>16.10.25</color></b>         
-<sprite index=0> RAINBO.7059 Movie Night - Ghostbusters: Afterlife    <b><t:1759435200:t></b> World: Popcorn Palace
-													   
-<b><color=#487de7>17.10.25</color></b>
-<sprite index=0> RAINBO.7059 Voice Training workshop with Lyxie       <b><t:1759521600:t></b> Room: Lecture Hall
+<b><color=#79c314>23.10.25</color></b>         
+<sprite index=0> RAINBO.7059 Squigg Readings of H. P. Lovecraft     <b><t:1761242400:t></b> Room: Discussion
+<sprite index=0> RAINBO.7059 Movie Night - FNAF                     <b><t:1759435200:t></b> World: Popcorn Palace
+<sprite index=0> RAINBO.7059  Tunes 'n' Thursday - Aural State      <b><t:1761256800:t></b> Room: Commons
 
-<b><color=#4b369d>18.10.25</color></b>
-<sprite index=0> RAINBO.7059 Gender Chaos Hour                        <b><t:1760814000:t></b> Various Worlds
-<sprite index=0> RAINBO.7059 Transmasc & Chill                        <b><t:1760817600:t></b> Various Worlds
+<b><color=#487de7>24.10.25</color></b>
+<sprite index=0> RAINBO.7059 Voice Training workshop with Lyxie     <b><t:1759521600:t></b> Room: Lecture Hall
 
-<b><color=#70369d>19.10.25</color></b>
-<sprite index=0> RAINBO.7059 Snacks 'n' Sunday - E28 Lilith Lycoris   <b><t:1759672800:t></b> Room: Commons
+<b><color=#4b369d>25.10.25</color></b>
+<sprite index=0> RAINBO.7059 Rainbow Howl                           <b><t:1759006800:t></b> Various Worlds
+
+<b><color=#70369d>26.10.25</color></b>
+<sprite index=0> RAINBO.7059 Snacks 'n' Sunday - E29 HyperHayley    <b><t:1759672800:t></b> Room: Commons
+<sprite index=0> RAINBO.7059 Neurodivergent Network Hangout         <b><t:1760292000:t></b> Various Worlds
+<sprite index=0> RAINBO.7059 Intersex Lecture                       <b><t:1761512400:t></b> Room: Lecture Hall
 
 </size>
 </SysPage>
@@ -541,7 +544,7 @@ Melody                   Izzy
 Timber the Cat           Toasty
 Lauren_Fantastic         YukiDeer
 MaeDaGoof                Amy 
-Laufey                   Eldritch
+Ďábel                    Eldritch
 Dogfish                  Akimbo
 RGTailSplash             CarlyTheGoth
 Opal_Does_Magic          Ellie53
@@ -549,14 +552,15 @@ Diffidence               Azzy / Amy
 NZMS                     Pongo
 Gwen the dwagon          BitiTiger
 emma eclipse             Scyllian_
-brassflamingo            lexi is cute
+Jasmine _Pizza           lexi is cute
 DagiWeh                  Aiya Sarah
 Cosmic Maestra           Arctic_Amethyst
-N-e-kolita             Rua_auR
+N-e-kolita               Rua_auR
 Cmdr Modder              Wild Wanderer
 Clavicus Vile            Crimson Candy
 _Essick_                 TronTheKitten 
-LiveDevilishlyy                 
+LiveDevilishlyy          Oraxia 
+Genect Defect
 </size>
 
 <line-height=10%><size=90%><color=#fad42a>Contributions</color></size></line-height>
@@ -811,6 +815,17 @@ Dignity lives in how we treat ourselves and each other. Let this space remind yo
 		This is the third!
 	</SysPage>
 </SysBook>
+
+
+
+
+
+
+
+
+
+
+
 
 
 
