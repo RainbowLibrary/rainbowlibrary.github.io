@@ -1,30 +1,32 @@
 <SysBook="Default">
 <SysPage="RAINBOW CALENDAR">
 <size=170%>
-<b><color=#e81416>20.10.25</color></b>
+<b><color=#e81416>27.10.25</color></b>
 <sprite index=0> RAINBO.7059 Social hangout day.
 
-<b><color=#ffa500>21.10.25</color></b>
-<sprite index=0> RAINBO.7059 Femme Sublime Time                     <b><t:1758657600:t></b> Various Worlds
+<b><color=#ffa500>28.10.25</color></b>
+<sprite index=0> RAINBO.7059 Social hangout day.                    
 
-<b><color=#faeb36>22.10.25</color></b>
-<sprite index=0> RAINBO.7059 Headmate Hangout                       <b><t:1758736800:t></b> Various Worlds
+<b><color=#faeb36>29.10.25</color></b>
+<sprite index=0> RAINBO.7059 Practical Voice Training w/Izzy      <b><t:1759352400:t></b> Room: Lecture Hall
 
-<b><color=#79c314>23.10.25</color></b>         
-<sprite index=0> RAINBO.7059 Squigg Readings of H. P. Lovecraft     <b><t:1761242400:t></b> Room: Discussion
-<sprite index=0> RAINBO.7059 Movie Night - FNAF                     <b><t:1759435200:t></b> World: Popcorn Palace
-<sprite index=0> RAINBO.7059  Tunes 'n' Thursday - Aural State      <b><t:1761256800:t></b> Room: Commons
+<b><color=#79c314>30.10.25</color></b>         
+<sprite index=0> RAINBO.7059 Movie Night                          <b><t:1759435200:t></b> World: Popcorn Palace
+<sprite index=0> RAINBO.7059  Tunes 'n' Thursday                  <b><t:1761256800:t></b> Room: Commons
 
-<b><color=#487de7>24.10.25</color></b>
-<sprite index=0> RAINBO.7059 Voice Training workshop with Lyxie     <b><t:1759521600:t></b> Room: Lecture Hall
+<b><color=#487de7>31.10.25</color></b>
+<sprite index=0> RAINBO.7059 Halloween Festival - Day 1           <b><t:1761939000:t></b> Stage
+<sprite index=0> RAINBO.7059 Voice Training workshop with Lyxie   <b><t:1759521600:t></b> Room: Lecture Hall
 
-<b><color=#4b369d>25.10.25</color></b>
-<sprite index=0> RAINBO.7059 Rainbow Howl                           <b><t:1759006800:t></b> Various Worlds
+<b><color=#4b369d>01.11.25</color></b>
+<sprite index=0> RAINBO.7059 Gender Chaos Hour                   <b><t:1760814000:t></b> Various Worlds
+<sprite index=0> RAINBO.7059 Transmasc & Chill                   <b><t:1760817600:t></b> Various Worlds
+<sprite index=0> RAINBO.7059 Matty's karaoke                     <b><t:1759611600:t></b> World: Karaoke in Sync!
+<sprite index=0> RAINBO.7059 Halloween Festival - Day 2          <b><t:1762034400:t></b> Stage
 
-<b><color=#70369d>26.10.25</color></b>
-<sprite index=0> RAINBO.7059 Snacks 'n' Sunday - E29 HyperHayley    <b><t:1759672800:t></b> Room: Commons
-<sprite index=0> RAINBO.7059 Neurodivergent Network Hangout         <b><t:1760292000:t></b> Various Worlds
-<sprite index=0> RAINBO.7059 Intersex Lecture                       <b><t:1761512400:t></b> Room: Lecture Hall
+<b><color=#70369d>02.11.25</color></b>
+<sprite index=0> RAINBO.7059 Snacks 'n' Sunday - E30             <b><t:1759672800:t></b> Room: Commons
+<sprite index=0> RAINBO.7059 Halloween Festival - Day 3          <b><t:1762120800:t></b> Stage
 
 </size>
 </SysPage>
@@ -814,6 +816,7 @@ Dignity lives in how we treat ourselves and each other. Let this space remind yo
 		This is the third!
 	</SysPage>
 </SysBook>
+
 
 
 
