@@ -12,7 +12,8 @@
 <sprite index=0> RAINBO.7059 Headmate Hangout                      <b><t:1762365600:t></b> Various Worlds
 
 <b><color=#79c314>06.11.25</color></b>         
-<sprite index=0> RAINBO.7059  Movie Night - POTC: Dead Man's Chest <b><t:1759435200:t></b> World: Popcorn Palace
+<sprite index=0> RAINBO.7059 Movie Night - POTC: Dead Man's Chest  <b><t:1759435200:t></b> World: Popcorn Palace
+<sprite index=0> RAINBO.7059 Tunes 'n' Thursday - Nerdy            <b><t:1762466400:t></b> Room: Commons
 
 <b><color=#487de7>07.11.25</color></b>
 <sprite index=0> RAINBO.7059 Voice Training workshop with Lyxie    <b><t:1762550100:t></b> Room: Lecture Hall
@@ -22,7 +23,7 @@
 <sprite index=0> RAINBO.7059 Rainbow Roams                         <b><t:1759010400:t></b> Various Worlds
 
 <b><color=#70369d>09.11.25</color></b>
-<sprite index=0> RAINBO.7059 Snacks 'n' Sunday                     <b><t:1762699500:t></b> Room: Commons
+<sprite index=0> RAINBO.7059 Snacks 'n' Sunday - r00t              <b><t:1762699500:t></b> Room: Commons
 <sprite index=0> RAINBO.7059 Neurodivergent Network Hangout        <b><t:1760292000:t></b> Various Worlds
 
 </size>
@@ -813,6 +814,7 @@ Dignity lives in how we treat ourselves and each other. Let this space remind yo
 		This is the third!
 	</SysPage>
 </SysBook>
+
 
 
 
