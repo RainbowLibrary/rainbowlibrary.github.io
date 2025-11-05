@@ -280,18 +280,6 @@ It’s more than a space—it’s a movement. And the best part? You’re part o
 
 <SysPage="9">
 
-
-
-
-
-
-
-
-
-
-
-
-<size=800%><sprite index=13></size></align>
 </SysPage>
 <SysPage="EVENTS">
 <align="center">Upcoming community events and activities</align>
@@ -814,6 +802,7 @@ Dignity lives in how we treat ourselves and each other. Let this space remind yo
 		This is the third!
 	</SysPage>
 </SysBook>
+
 
 
 
