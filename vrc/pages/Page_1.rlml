@@ -69,7 +69,7 @@ These resources are listed by region to ensure you have the most relevant, acces
 </size>
 
 <align="center"><size=360%><color=#ffffff>Reach out when you need support. You matter. </color></size>
-![heart](/vrc/images/LGBTheart.png)</align>
+<size=900%><sprite index=0></size></align>
 </font>
 </SysPage>
 <SysPage="CONTACT">
@@ -99,7 +99,7 @@ We welcome all inquiries and look forward to hearing from you. No matter how big
 </size>
 
 <align="center"><size=400%><color=#ffffff>We're just a message away. </color></size>
-<size=900%><sprite index=12></size></align>
+<size=900%><sprite index=0></size></align>
 </font>
 </SysPage>
 
@@ -128,7 +128,7 @@ Moderators are present to help, not to police. If you feel unsafe or notice some
 </size>
 
 <align="center"><size=160%><color=#ffffff>We take care of each other. Thank you for being part of that. </color></size>
-<size=800%><sprite index=12></size></align>
+<size=800%><sprite index=0></size></align>
 </font>
 </SysPage>
 <SysPage="SIGNING ROOM">
@@ -155,7 +155,7 @@ It is a perfect place to reflect, have a thoughtful conversation through gesture
 </size>
 
 <align="center"><size=160%><color=#ffffff>Find peace, find connection, find quiet here. </color></size>
-<size=800%><sprite index=12></size></align>
+<size=800%><sprite index=0></size></align>
 </font>
 </SysPage>
 
@@ -174,7 +174,7 @@ Join us for engaging discussions and learn from each other while honing your ski
 </size>
 
 <align="center"><size=250%><color=#ffffff>Engage, respect, and challenge ideas. </color></size>
-<size=850%><sprite index=12></size></align>
+<size=850%><sprite index=0></size></align>
 </font>
 </SysPage>
 <SysPage="LECTURE HALL">
@@ -192,7 +192,7 @@ Whether you're here to listen, ask questions, or contribute, we invite you to be
 </size>
 
 <align="center"><size=250%><color=#ffffff>Where learning happens, together. </color></size>
-<size=850%><sprite index=12></size></align>
+<size=850%><sprite index=0></size></align>
 </font>
 </SysPage>
 <SysPage="PEER SUPPORT">
@@ -210,7 +210,7 @@ While we are not a crisis service, we care deeply about your well-being—and ca
 </size>
 
 <align="center"><size=160%><color=#ffffff>Community care is real care. We're here for each other. </color></size>
-<size=800%><sprite index=12></size></align>
+<size=800%><sprite index=0></size></align>
 </font>
 </SysPage>
 
@@ -242,7 +242,7 @@ We create inclusive, supportive spaces that prioritize belonging, mental wellnes
 
 
 <align="center"><size=160%><color=#ffffff>Together, we shape a brighter, bolder  and more compassionate future </color></size>
-<size=800%><sprite index=12></size></align>
+<size=800%><sprite index=0></size></align>
 </font>
 </SysPage>
 <SysPage="LORE">
@@ -274,7 +274,7 @@ It’s more than a space—it’s a movement. And the best part? You’re part o
 </size>
 
 <align="center"><size=220%><color=#ffffff>Join us in building the next chapter. </color></size>
-<size=800%><sprite index=12></size></align>
+<size=800%><sprite index=0></size></align>
 </font>
 </SysPage>
 
@@ -321,7 +321,7 @@ We highlight trans creators, celebrate diverse journeys, and foster connection t
 </size>
 
 <align="center"><size=160%><color=#ffffff>You are seen, supported, and never alone on your path</color></size>
-<size=800%><sprite index=12></size></align>
+<size=800%><sprite index=0></size></align>
 </font>
 </SysPage>
 <SysPage="ART GALLERY">
@@ -349,7 +349,7 @@ Want to be featured? Submit your work through our Discord and be part of our evo
 </size>
 
 <align="center"><size=160%><color=#ffffff>Every piece tells a story—yours deserves to be seen</color></size>
-<size=800%><sprite index=12></size></align>
+<size=800%><sprite index=0></size></align>
 </font>
 </SysPage>
 <SysPage="BOOK CLUB">
@@ -369,7 +369,7 @@ Reading isn’t just about the books—it’s about the conversations that grow 
 </size>
 
 <align="center"><size=160%><color=#ffffff>Turn the page, and join the conversation. </color></size>
-<size=800%><sprite index=12></size></align>
+<size=800%><sprite index=0></size></align>
 </font>
 </SysPage>
 <SysPage="GAY HISTORY">
@@ -390,7 +390,7 @@ Through Pride Stories, we honor the diverse paths each person walks and celebrat
 </size>
 
 <align="center"><size=160%><color=#ffffff>Every story is a beacon of pride, strength, and truth. </color></size>
-<size=800%><sprite index=12></size></align>
+<size=800%><sprite index=0></size></align>
 </font>
 </SysPage>
 <SysPage="SUPPORT NETWORK">
@@ -410,7 +410,7 @@ You’re not just welcome here—you’re supported here.
 </size>
 
 <align="center"><size=160%><color=#ffffff>Let’s build a network where no one slips through the cracks. </color></size>
-<size=800%><sprite index=12></size></align>
+<size=800%><sprite index=0></size></align>
 </font>
 </SysPage>
 
@@ -453,7 +453,7 @@ We invite everyone, regardless of where they are in their gender journey, to use
 </size>
 
 <align="center"><size=380%><color=#ffffff>Every gender is valid. Every expression is celebrated. </color></size>
-<size=2000%><sprite index=12></size></align>
+<size=2000%><sprite index=0></size></align>
 </font>
 </SysPage>
 <SysPage="GENDER SPECTRUM">
@@ -603,7 +603,7 @@ Thank you all!</color></size></align></font>
 </size>
 
 <align="center"><size=130%><color=#ffffff>You're always welcome here - just as you are </color></size></align>
-<align="center"><size=800%><sprite index=12></size></align>
+<align="center"><size=800%><sprite index=0></size></align>
 </font>
 </SysPage>
 <SysPage="RAINBOW LIBRARY">
@@ -732,7 +732,7 @@ Where trees and grass in harmony lay.
 Blue, the ocean, deep and wide,
 Reflecting skies with endless tide.
 </size>
-<align="center"><size=800%><sprite index=12></size></align>
+<align="center"><size=800%><sprite index=0></size></align>
 </align>
 </font>
 </SysPage>
@@ -750,7 +750,7 @@ Use this space to learn, share resources, and uplift trans voices. Advocacy star
 </size>
 
 <align="center"><size=200%><color=#ffffff>There is no pride without trans rights. </color></size>
-<size=800%><sprite index=12></size></align>
+<size=800%><sprite index=0></size></align>
 </font>
 </SysPage>
 <SysPage="HUMAN RIGHTS">
@@ -766,7 +766,7 @@ From freedom of expression to bodily autonomy, housing, education, and healthcar
 </size>
 
 <align="center"><size=200%><color=#ffffff>When we protect each other’s rights, we protect our shared humanity. </color></size>
-<size=800%><sprite index=12></size></align>
+<size=800%><sprite index=0></size></align>
 </font>
 </SysPage>
 <SysPage="TRANS POLITICS">
@@ -782,7 +782,7 @@ This space is here to help you understand current issues, advocate effectively, 
 </size>
 
 <align="center"><size=200%><color=#ffffff>Trans liberation is a political priority. Stay aware, stay active. </color></size>
-<size=800%><sprite index=12></size></align>
+<size=800%><sprite index=0></size></align>
 </font>
 </SysPage>
 <SysPage="DIGNITY">
@@ -798,7 +798,7 @@ Dignity lives in how we treat ourselves and each other. Let this space remind yo
 </size>
 
 <align="center"><size=200%><color=#ffffff>Dignity isn’t something you earn—it’s something you already have. </color></size>
-<size=800%><sprite index=12></size></align>
+<size=800%><sprite index=0></size></align>
 </font>
 </SysPage>
 <SysBook="Hello World Book">
@@ -812,6 +812,7 @@ Dignity lives in how we treat ourselves and each other. Let this space remind yo
 		This is the third!
 	</SysPage>
 </SysBook>
+
 
 
 
