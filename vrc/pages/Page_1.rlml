@@ -13,7 +13,7 @@
 
 <b><color=#79c314>13.11.25</color></b>         
 <sprite index=0> RAINBO.7059  Movie Night - Captain America: The First Avenger  <b><t:1759435200:t></b> World: Popcorn Palace
-<sprite index=0> RAINBO.7059  Tunes 'n' Thursday -                              <b><t:1759435200:t></b> Room: Commons
+
 
 <b><color=#487de7>14.11.25</color></b>
 <sprite index=0> RAINBO.7059 Voice Training workshop with Lyxie                 <b><t:1761942600:t></b> Room: Lecture Hall
@@ -22,7 +22,7 @@
 <sprite index=0> RAINBO.7059 Transmasc & Chill                                  <b><t:1760817600:t></b> Various Worlds
 
 <b><color=#70369d>16.11.25</color></b>
-<sprite index=0> RAINBO.7059 Snacks 'n' Sunday - E31                            <b><t:1759672800:t></b> Room: Commons
+<sprite index=0> RAINBO.7059 Snacks 'n' Sunday - E31 Mister Chop                <b><t:1759672800:t></b> Room: Commons
 
 </size>
 </SysPage>
@@ -810,6 +810,7 @@ Dignity lives in how we treat ourselves and each other. Let this space remind yo
 		This is the third!
 	</SysPage>
 </SysBook>
+
 
 
 
